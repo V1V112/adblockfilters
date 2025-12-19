@@ -3,9 +3,9 @@
 # Description: 适用于 Shadowrocket 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts。
 # Homepage: https://github.com/217heidai/adblockfilters
 # Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockclash.list
-# Version: 20251219161146
-# Last modified: 2025/12/19 16:11:46
-# Blocked domains: 216710
+# Version: 20251219170901
+# Last modified: 2025/12/19 17:09:01
+# Blocked domains: 216720
 #
 [Rule]
 DOMAIN-SUFFIX,0-0.fr,REJECT-DROP
@@ -4134,6 +4134,7 @@ DOMAIN-SUFFIX,aa108aa108.com,REJECT-DROP
 DOMAIN-SUFFIX,aa11878007.com,REJECT-DROP
 DOMAIN-SUFFIX,aa21120476.com,REJECT-DROP
 DOMAIN-SUFFIX,aa26aceaa7ea.com,REJECT-DROP
+DOMAIN-SUFFIX,aa3zx8wko.top,REJECT-DROP
 DOMAIN-SUFFIX,aa67678156.com,REJECT-DROP
 DOMAIN-SUFFIX,aa86a52a98162b7d.com,REJECT-DROP
 DOMAIN-SUFFIX,aa88691468.cn,REJECT-DROP
@@ -8667,6 +8668,7 @@ DOMAIN-SUFFIX,adz2you.net,REJECT-DROP
 DOMAIN-SUFFIX,adz2you.xyz,REJECT-DROP
 DOMAIN-SUFFIX,adzbaba.com,REJECT-DROP
 DOMAIN-SUFFIX,adzbazar.com,REJECT-DROP
+DOMAIN-SUFFIX,adzcivwjgktmz.site,REJECT-DROP
 DOMAIN-SUFFIX,rtb-useast.adzealous.com,REJECT-DROP
 DOMAIN-SUFFIX,static.adzealous.com,REJECT-DROP
 DOMAIN-SUFFIX,adzep.com.br,REJECT-DROP
@@ -20794,6 +20796,7 @@ DOMAIN-SUFFIX,delta.b1tcascade.ru,REJECT-DROP
 DOMAIN-SUFFIX,glow.b1tcascade.ru,REJECT-DROP
 DOMAIN-SUFFIX,rill.b1tcascade.ru,REJECT-DROP
 DOMAIN-SUFFIX,views.b1tv.ro,REJECT-DROP
+DOMAIN-SUFFIX,b1xuekes.xyz,REJECT-DROP
 DOMAIN-SUFFIX,b1zftjhtwb.com,REJECT-DROP
 DOMAIN-SUFFIX,analytics.b2.ai,REJECT-DROP
 DOMAIN-SUFFIX,cdn.b2.ai,REJECT-DROP
@@ -60289,6 +60292,7 @@ DOMAIN-SUFFIX,eighthpowerfully.com,REJECT-DROP
 DOMAIN-SUFFIX,ablink.8email.eightsleep.com,REJECT-DROP
 DOMAIN-SUFFIX,a8.eigox.jp,REJECT-DROP
 DOMAIN-SUFFIX,eihaziviish.com,REJECT-DROP
+DOMAIN-SUFFIX,eiiknsfpyarmi.site,REJECT-DROP
 DOMAIN-SUFFIX,eijivbeakvnpi.store,REJECT-DROP
 DOMAIN-SUFFIX,eijqgjhcmjsfm.website,REJECT-DROP
 DOMAIN-SUFFIX,eika-akie220202.com,REJECT-DROP
@@ -64336,6 +64340,7 @@ DOMAIN-SUFFIX,adserv.etv.sale,REJECT-DROP
 DOMAIN-SUFFIX,etvda.yt,REJECT-DROP
 DOMAIN-SUFFIX,etvurlcoygadl.site,REJECT-DROP
 DOMAIN-SUFFIX,etwdpgjsvdqzk.site,REJECT-DROP
+DOMAIN-SUFFIX,etwmijxejhqrr.site,REJECT-DROP
 DOMAIN-SUFFIX,etwzue.icu,REJECT-DROP
 DOMAIN-SUFFIX,etxyhcxycpbql.space,REJECT-DROP
 DOMAIN-SUFFIX,etyerecentlyhav.org,REJECT-DROP
@@ -80821,6 +80826,7 @@ DOMAIN-SUFFIX,gqihdorufksiq.online,REJECT-DROP
 DOMAIN-SUFFIX,gqiikkuqzsxrt.store,REJECT-DROP
 DOMAIN-SUFFIX,gqkrkcicjfzwi.website,REJECT-DROP
 DOMAIN-SUFFIX,gqnfkfrunjxdw.world,REJECT-DROP
+DOMAIN-SUFFIX,gqwwhuxvu.com,REJECT-DROP
 DOMAIN-SUFFIX,partner.gr7.cz,REJECT-DROP
 DOMAIN-SUFFIX,www.go.gr8people.com,REJECT-DROP
 DOMAIN-SUFFIX,vn.grab-credit4u.com,REJECT-DROP
@@ -114270,6 +114276,7 @@ DOMAIN-SUFFIX,ngghll.me.co.kr,REJECT-DROP
 DOMAIN-SUFFIX,me08mo.com,REJECT-DROP
 DOMAIN-SUFFIX,gtm.me2rentals.com.br,REJECT-DROP
 DOMAIN-SUFFIX,me3.ne.jp,REJECT-DROP
+DOMAIN-SUFFIX,me4b65enw.com,REJECT-DROP
 DOMAIN-SUFFIX,app.me4u.ai,REJECT-DROP
 DOMAIN-SUFFIX,webcontr.mea-living.de,REJECT-DROP
 DOMAIN-SUFFIX,meabaribit.com,REJECT-DROP
@@ -157482,6 +157489,7 @@ DOMAIN-SUFFIX,rwcboa.rjliving.com.au,REJECT-DROP
 DOMAIN-SUFFIX,rjmagdairzath.website,REJECT-DROP
 DOMAIN-SUFFIX,rjmetrics.com,REJECT-DROP
 DOMAIN-SUFFIX,rjmjflkndiqxw.site,REJECT-DROP
+DOMAIN-SUFFIX,rjokawzwvavma.top,REJECT-DROP
 DOMAIN-SUFFIX,rjowzlkaz.today,REJECT-DROP
 DOMAIN-SUFFIX,rjpvnl.icu,REJECT-DROP
 DOMAIN-SUFFIX,rjqwkmcvxsouz.space,REJECT-DROP
@@ -176356,6 +176364,7 @@ DOMAIN-SUFFIX,strongtools.ga,REJECT-DROP
 DOMAIN-SUFFIX,marketing.strongtowerig.com,REJECT-DROP
 DOMAIN-SUFFIX,strongven.club,REJECT-DROP
 DOMAIN-SUFFIX,strongvibeslay.info,REJECT-DROP
+DOMAIN-SUFFIX,strootcooches.click,REJECT-DROP
 DOMAIN-SUFFIX,stropocclu.site,REJECT-DROP
 DOMAIN-SUFFIX,stroshoilt.com,REJECT-DROP
 DOMAIN-SUFFIX,v.strosin.biz,REJECT-DROP
@@ -204559,6 +204568,7 @@ DOMAIN-SUFFIX,adsassets.waze.com,REJECT-DROP
 DOMAIN-SUFFIX,adsassets-ipv6.waze.com,REJECT-DROP
 DOMAIN-SUFFIX,advil.waze.com,REJECT-DROP
 DOMAIN-SUFFIX,sdk.waze.com,REJECT-DROP
+DOMAIN-SUFFIX,wazfsviocavtls.com,REJECT-DROP
 DOMAIN-SUFFIX,wazimo.com,REJECT-DROP
 DOMAIN-SUFFIX,link.wazirx.com,REJECT-DROP
 DOMAIN-SUFFIX,wazofurniture.com,REJECT-DROP
