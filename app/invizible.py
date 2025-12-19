@@ -5,18 +5,18 @@ from loguru import logger
 
 from app.base import APPBase
 
-class mosdns(APPBase):
+class InviZible(APPBase):
     def __init__(self, blockList:List[str], unblockList:List[str], filterDict:Dict[str,str], filterList:List[str], filterList_var:List[str], ChinaSet:Set[str], fileName:str, sourceRule:str):
-        super(mosdns, self).__init__(blockList, unblockList, filterDict, filterList, filterList_var, ChinaSet, fileName, sourceRule)
+        super(InviZible, self).__init__(blockList, unblockList, filterDict, filterList, filterList_var, ChinaSet, fileName, sourceRule)
 
     def generate(self, isLite=False):
         try:
             if isLite:
-                logger.info("generate adblock mosdns Lite...")
+                logger.info("generate adblock InviZible Lite...")
                 fileName = self.fileNameLite
                 blockList = self.blockListLite
             else:
-                logger.info("generate adblock mosdns...")
+                logger.info("generate adblock InviZible...")
                 fileName = self.fileName
                 blockList = self.blockList
             
@@ -27,11 +27,11 @@ class mosdns(APPBase):
             with open(fileName, 'a') as f:
                 f.write("#\n")
                 if isLite:
-                    f.write("# Title: AdBlock mosdns Lite\n")
-                    f.write("# Description: 适用于 mosdns 的去广告合并规则，每 8 个小时更新一次。规则源：%s。Lite 版仅针对国内域名拦截。\n"%(self.sourceRule))
+                    f.write("# Title: AdBlock InviZible Lite\n")
+                    f.write("# Description: 适用于 InviZible Pro、personalDNSfilter 的去广告合并规则，每 8 个小时更新一次。规则源：%s。Lite 版仅针对国内域名拦截。\n"%(self.sourceRule))
                 else:
-                    f.write("# Title: AdBlock mosdns\n")
-                    f.write("# Description: 适用于 mosdns 的去广告合并规则，每 8 个小时更新一次。规则源：%s。\n"%(self.sourceRule))
+                    f.write("# Title: AdBlock InviZible\n")
+                    f.write("# Description: 适用于 InviZible Pro、personalDNSfilter 的去广告合并规则，每 8 个小时更新一次。规则源：%s。\n"%(self.sourceRule))
                 f.write("# Homepage: %s\n"%(self.homepage))
                 f.write("# Source: %s/%s\n"%(self.source, os.path.basename(fileName)))
                 f.write("# Version: %s\n"%(self.version))
@@ -42,8 +42,8 @@ class mosdns(APPBase):
                     f.write("%s\n"%(domain))
             
             if isLite:
-                logger.info("adblock mosdns Lite: block=%d"%(len(blockList)))
+                logger.info("adblock InviZible Lite: block=%d"%(len(blockList)))
             else:
-                logger.info("adblock mosdns: block=%d"%(len(blockList)))
+                logger.info("adblock InviZible: block=%d"%(len(blockList)))
         except Exception as e:
             logger.error("%s"%(e))
