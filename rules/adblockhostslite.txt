@@ -3,9 +3,9 @@
 # Description: 适用于 hosts 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts。Lite 版仅针对国内域名拦截。
 # Homepage: https://github.com/217heidai/adblockfilters
 # Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockhostslite.txt
-# Version: 20260105094955
-# Last modified: 2026/01/05 09:49:55
-# Blocked domains: 4687
+# Version: 20260105163252
+# Last modified: 2026/01/05 16:32:52
+# Blocked domains: 4800
 #
 127.0.0.1	localhost
 127.0.0.1	localhost.localdomain
@@ -48,6 +48,8 @@ ff02::3	ip6-allhosts
 0.0.0.0	1.11130.com.cn
 0.0.0.0	1.11467.com
 0.0.0.0	appversion.115.com
+0.0.0.0	11888vip.cn
+0.0.0.0	bj1.118pan.com
 0.0.0.0	bdwmhz.120askimages.com
 0.0.0.0	js1.122cha.com
 0.0.0.0	ad.12306.cn
@@ -100,6 +102,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	nex.163.com
 0.0.0.0	r.mail.163.com
 0.0.0.0	sentry.music.163.com
+0.0.0.0	timejs.game.163.com
 0.0.0.0	yaolu.mh.163.com
 0.0.0.0	yaolu.yuedu.163.com
 0.0.0.0	ac.dun.163yun.com
@@ -128,6 +131,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	20wx.com
 0.0.0.0	2144.cn
 0.0.0.0	ssp.21ic.com
+0.0.0.0	tj.21ic.com
 0.0.0.0	2345.cn
 0.0.0.0	bd-js1.2345.com
 0.0.0.0	bd-retrieval1.2345.com
@@ -159,6 +163,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	care.help.360.cn
 0.0.0.0	dd.browser.360.cn
 0.0.0.0	hao.360.cn
+0.0.0.0	lianmeng.360.cn
 0.0.0.0	mclean.f.360.cn
 0.0.0.0	msch.f.360.cn
 0.0.0.0	mvconf.f.360.cn
@@ -266,6 +271,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	acs.agent.56.com
 0.0.0.0	bill.agent.56.com
 0.0.0.0	download.56.com
+0.0.0.0	sp.qf.56.com
 0.0.0.0	stat.56.com
 0.0.0.0	union.56.com
 0.0.0.0	uvimage.56.com
@@ -275,6 +281,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	dl.1003b.56a.com
 0.0.0.0	56fba.cn
 0.0.0.0	57573zubo36833.com
+0.0.0.0	57office.com.cn
 0.0.0.0	brandshow.58.com
 0.0.0.0	jing.58.com
 0.0.0.0	poro.58.com
@@ -285,7 +292,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	stat-58home.58che.com
 0.0.0.0	595image.com
 0.0.0.0	59gt.cn
-0.0.0.0	abcd.5lu.com
 0.0.0.0	efgh.5lu.com
 0.0.0.0	5mgrgsc.cn
 0.0.0.0	adjb.5nd.com
@@ -309,7 +315,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	6uzxtlv.cn
 0.0.0.0	6v4.work
 0.0.0.0	6v6.work
-0.0.0.0	trail.71baomu.com
 0.0.0.0	bdcdncnc.inter.71edge.com
 0.0.0.0	7299tu75.cc
 0.0.0.0	73336zubo25326.com
@@ -317,7 +322,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	1.78500.cn
 0.0.0.0	7car.com.cn
 0.0.0.0	7cbwus.cn
-0.0.0.0	7dot.cn
 0.0.0.0	7kjiiu.cn
 0.0.0.0	7moor.com
 0.0.0.0	cdn.7nsc.cn
@@ -337,6 +341,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	8ox.cn
 0.0.0.0	8y3j.cn
 0.0.0.0	web.900.la
+0.0.0.0	new.915yzt.cn
 0.0.0.0	m.91heima.cn
 0.0.0.0	t.91syun.com
 0.0.0.0	rdm.91yunma.cn
@@ -348,6 +353,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	11.96131.com.cn
 0.0.0.0	96382zubo66756.com
 0.0.0.0	9800.com
+0.0.0.0	42gixk.98kk89.com
 0.0.0.0	whfpbc.99.com.cn
 0.0.0.0	9991.com
 0.0.0.0	a1.99933.cn
@@ -361,14 +367,10 @@ ff02::3	ip6-allhosts
 0.0.0.0	9wee.com
 0.0.0.0	a32a.com.cn
 0.0.0.0	a395813236.cn
-0.0.0.0	a3h.de
 0.0.0.0	a3p4.net
 0.0.0.0	a48505.cn
 0.0.0.0	a910445285.cn
 0.0.0.0	a9v8.cn
-0.0.0.0	aa88691468.cn
-0.0.0.0	aaoffice.cn
-0.0.0.0	abcde4374968.cn
 0.0.0.0	smetrics.abercrombie.cn
 0.0.0.0	discover.absciex.com.cn
 0.0.0.0	abuse.pm
@@ -439,6 +441,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	statscollector-1-north-america.agora.io
 0.0.0.0	tracking.agora.io
 0.0.0.0	webcollector-rtm.agora.io
+0.0.0.0	ahedhjl.cn
 0.0.0.0	ahov1.top
 0.0.0.0	brc.aigrammar.net
 0.0.0.0	brc2.aigrammar.net
@@ -456,6 +459,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	aizipai.cn
 0.0.0.0	ajiang.net
 0.0.0.0	as-datareceiver.aki-game.net
+0.0.0.0	eu-datareceiver.aki-game.net
 0.0.0.0	hk-datareceiver.aki-game.net
 0.0.0.0	jp-datareceiver.aki-game.net
 0.0.0.0	us-datareceiver.aki-game.net
@@ -561,9 +565,9 @@ ff02::3	ip6-allhosts
 0.0.0.0	retcode-sg-lazada.arms.aliyuncs.com
 0.0.0.0	shaquevip.oss-cn-zhangjiakou.aliyuncs.com
 0.0.0.0	star-seo.oss-ap-northeast-1.aliyuncs.com
-0.0.0.0	swwwxww.oss-cn-hangzhou.aliyuncs.com
 0.0.0.0	sz88.oss-cn-shenzhen.aliyuncs.com
 0.0.0.0	tci.oss-ap-southeast-1.aliyuncs.com
+0.0.0.0	tmea116.oss-cn-beijing.aliyuncs.com
 0.0.0.0	tttppp.oss-cn-guangzhou.aliyuncs.com
 0.0.0.0	video231.oss-cn-beijing.aliyuncs.com
 0.0.0.0	www5.oss-cn-hangzhou.aliyuncs.com
@@ -602,6 +606,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	images.h.analog.com
 0.0.0.0	analysys.cn
 0.0.0.0	androidblender.com
+0.0.0.0	ant-google.com.cn
 0.0.0.0	antarangfashion.com
 0.0.0.0	api.antibanads.com
 0.0.0.0	bu.antutu.net
@@ -614,11 +619,16 @@ ff02::3	ip6-allhosts
 0.0.0.0	adx.apicgate.com
 0.0.0.0	us-behavior.apitd.net
 0.0.0.0	apkevery.com
+0.0.0.0	aplusoffice.cn
 0.0.0.0	app-analytics-services.com
 0.0.0.0	app-measurement.com
 0.0.0.0	mobile.appchina.com
 0.0.0.0	appdriver.cn
 0.0.0.0	appgift.sinaapp.com
+0.0.0.0	apple-010.cn
+0.0.0.0	apple-8p.cn
+0.0.0.0	apple-tree.cn
+0.0.0.0	apple-wx.cn
 0.0.0.0	iadsdk.apple.com
 0.0.0.0	securemetrics.apple.com.cn
 0.0.0.0	fpb1.apple886.com
@@ -628,16 +638,16 @@ ff02::3	ip6-allhosts
 0.0.0.0	tracking.apptrackerlink.com
 0.0.0.0	track-ger.aqara.com
 0.0.0.0	pay.aqiu6.com
-0.0.0.0	tr.email.archiexpo.com
 0.0.0.0	a.armystar.com
+0.0.0.0	trk.arozone.cn
 0.0.0.0	arpun.com
 0.0.0.0	vpass-ne.assti.cn
 0.0.0.0	aster-bd.com
 0.0.0.0	aiseet.aa.atianqi.com
 0.0.0.0	elq.atlaslovestravel.com
+0.0.0.0	atoffice.cn
 0.0.0.0	ac.atpanel.com
 0.0.0.0	t.atpanel.com
-0.0.0.0	so.auto999.cn
 0.0.0.0	al.autohome.com.cn
 0.0.0.0	ftwo-feedback.autohome.com.cn
 0.0.0.0	ftwo-receiver.autohome.com.cn
@@ -657,6 +667,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	azdxypf.cn
 0.0.0.0	b1.b2b168.com
 0.0.0.0	b1.b2b168.net
+0.0.0.0	b396662319.cn
 0.0.0.0	apishow.babybus.com
 0.0.0.0	apishowstats.babybus.com
 0.0.0.0	apppromoteapi.babybus.com
@@ -736,6 +747,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	imgstat.baidu.com
 0.0.0.0	itsdata.map.baidu.com
 0.0.0.0	kstj.baidu.com
+0.0.0.0	libs.baidu.com
 0.0.0.0	log.music.baidu.com
 0.0.0.0	luimg.baidu.com
 0.0.0.0	m1.baidu.com
@@ -771,6 +783,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	sobar.baidu.com
 0.0.0.0	sofire.baidu.com
 0.0.0.0	sp0.baidu.com
+0.0.0.0	sp1.baidu.com
 0.0.0.0	sp2.baidu.com
 0.0.0.0	sp3.baidu.com
 0.0.0.0	stat.v.baidu.com
@@ -822,6 +835,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	global-staticplat.cdn.bcebos.com
 0.0.0.0	mobads-pre-config.cdn.bcebos.com
 0.0.0.0	qwe0231141.bj.bcebos.com
+0.0.0.0	tob-cms.bj.bcebos.com
 0.0.0.0	vv84.bj.bcebos.com
 0.0.0.0	wenku-cms.bj.bcebos.com
 0.0.0.0	httpdns.bcelive.com
@@ -848,7 +862,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	beigonggroup.com
 0.0.0.0	beizi.biz
 0.0.0.0	smetrics.benefitcosmetics.com.cn
-0.0.0.0	better.com.np
 0.0.0.0	betylife.com
 0.0.0.0	a.bfking.cn
 0.0.0.0	bfshan.cn
@@ -860,6 +873,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	bianxianmao.com
 0.0.0.0	biddingx.com
 0.0.0.0	bieqpf.cn
+0.0.0.0	big-google.com.cn
 0.0.0.0	hlog.bigda.com
 0.0.0.0	mlog.bigda.com
 0.0.0.0	union-mlog.bigda.com
@@ -870,14 +884,16 @@ ff02::3	ip6-allhosts
 0.0.0.0	ali-web-player-tracker.biliapi.net
 0.0.0.0	hw-v2-web-player-tracker.biliapi.net
 0.0.0.0	data.bilibili.com
-0.0.0.0	interface.bilibili.com
 0.0.0.0	miniapp.bilibili.com
+0.0.0.0	line1-log.biligame.net
 0.0.0.0	mcdn.bilivideo.com
 0.0.0.0	ai.bioon.com
 0.0.0.0	carstat.bitauto.com
 0.0.0.0	log.bitauto.com
 0.0.0.0	img11.biyan8.com
 0.0.0.0	sdkapiv2.bizport.cn
+0.0.0.0	bj5iodzgyi.com
+0.0.0.0	bjxas.cn
 0.0.0.0	file.blackint3.com
 0.0.0.0	adimage.blm.net
 0.0.0.0	blsenpg.cn
@@ -888,6 +904,8 @@ ff02::3	ip6-allhosts
 0.0.0.0	bootcss.com
 0.0.0.0	vstat.borderlessbd.com
 0.0.0.0	noyvyv.bosonshop.com
+0.0.0.0	box-delivery.cn
+0.0.0.0	box-google.com.cn
 0.0.0.0	boyidianqi.com.cn
 0.0.0.0	bpztsxx.com
 0.0.0.0	bqdhrr.top
@@ -938,6 +956,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	caonimazuzong.com
 0.0.0.0	baidu1.cardbaobao.com
 0.0.0.0	cartx.cloud
+0.0.0.0	cat-google.com.cn
 0.0.0.0	super.cat898.com
 0.0.0.0	tracking.cat898.com
 0.0.0.0	adv.ccb.com
@@ -950,6 +969,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	p.data.cctv.com
 0.0.0.0	cctvgb.com.cn
 0.0.0.0	www.cdcem.com
+0.0.0.0	cdda204521.cn
 0.0.0.0	vpass-jp.cdgemt.cn
 0.0.0.0	ads5-normal-lq.zijieapi.com.c.dsa.cdnbuild.net
 0.0.0.0	tracker.cdnbye.com
@@ -993,13 +1013,11 @@ ff02::3	ip6-allhosts
 0.0.0.0	rankhit.china.com
 0.0.0.0	sssvd.china.com
 0.0.0.0	union.china.com.cn
-0.0.0.0	chinaapper.com
 0.0.0.0	feedbackstorage.blob.core.chinacloudapi.cn
 0.0.0.0	pcmactivity.chinacloudsites.cn
 0.0.0.0	same.chinadaily.com.cn
 0.0.0.0	sdkoptedge.chinanetcenter.com
 0.0.0.0	chinataiwan.org
-0.0.0.0	a2put.chinaz.com
 0.0.0.0	stats.chinaz.com
 0.0.0.0	chiq-cloud.com
 0.0.0.0	cholo215.cn
@@ -1046,12 +1064,12 @@ ff02::3	ip6-allhosts
 0.0.0.0	log1.cmpassport.com
 0.0.0.0	log2.cmpassport.com
 0.0.0.0	cmpxaup.cn
+0.0.0.0	ggc.cmvideo.cn
 0.0.0.0	ggx.cmvideo.cn
 0.0.0.0	cn-cn-google.com.cn
 0.0.0.0	ad-api.cnblogs.com
 0.0.0.0	analytics.cnblogs.com
 0.0.0.0	adm.cloud.cnfol.com
-0.0.0.0	abcd.cnhuoche.com
 0.0.0.0	hmjs.cnmo-img.com.cn
 0.0.0.0	webcert.cnmstl.net
 0.0.0.0	smuc.cnnfootballclub.com
@@ -1078,6 +1096,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	log-eap-sg.coloros.com
 0.0.0.0	moa-upload-online.coloros.com
 0.0.0.0	smartcard.apps.coloros.com
+0.0.0.0	trk.compair.com.cn
 0.0.0.0	strack.concur.cn
 0.0.0.0	track.concur.cn
 0.0.0.0	marketing.container-xchange.cn
@@ -1091,6 +1110,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	logreport-global-dual.coolbcloud.com
 0.0.0.0	detaillog-global-dual.coolccloud.com
 0.0.0.0	wslog-global-dual.coolccloud.com
+0.0.0.0	logreport-global-dual.coolhcloud.com
 0.0.0.0	coolkaba.com
 0.0.0.0	detaillog-global.coolzcloud.com
 0.0.0.0	detaillog-global-dual.coolzcloud.com
@@ -1229,12 +1249,16 @@ ff02::3	ip6-allhosts
 0.0.0.0	sm.dell.com
 0.0.0.0	vpass-login.delphia.cn
 0.0.0.0	aem.dentsuchina.cn
-0.0.0.0	www.destinationurl.com
 0.0.0.0	msz3.destinia.cn
 0.0.0.0	api.dewmobile.net
 0.0.0.0	dexinyi.cn
 0.0.0.0	dg186.cn
 0.0.0.0	d.dgzj.com
+0.0.0.0	dhldegg.cn
+0.0.0.0	dhlib.org.cn
+0.0.0.0	dhljy.cn
+0.0.0.0	dhlk.cn
+0.0.0.0	dhly.cc
 0.0.0.0	dianru.com
 0.0.0.0	bea-s.dinghuoche.com
 0.0.0.0	resolver.dingtalk.com
@@ -1254,6 +1278,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	dnyzbp.cn
 0.0.0.0	do-global.com
 0.0.0.0	zx.docin.com
+0.0.0.0	dog-google.com.cn
 0.0.0.0	doglobal.net
 0.0.0.0	ads.doit.com.cn
 0.0.0.0	dolphinpaper.com
@@ -1267,8 +1292,8 @@ ff02::3	ip6-allhosts
 0.0.0.0	monitor-web.dotfashion.cn
 0.0.0.0	doubleclick-cn.net
 0.0.0.0	doubleclick.net
-0.0.0.0	abc.douguo.com
 0.0.0.0	kpshx.douguo.com
+0.0.0.0	leabd.douguo.com
 0.0.0.0	download.doumaibiji.cn
 0.0.0.0	doumob.com
 0.0.0.0	wan.douyu.com
@@ -1287,7 +1312,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	stun.douyucdn.cn
 0.0.0.0	stun1.douyucdn.cn
 0.0.0.0	dotcounter.douyutv.com
-0.0.0.0	fintech.downyi.cn
 0.0.0.0	dpjzzgw.cn
 0.0.0.0	drdwy.com
 0.0.0.0	drivethelife.com
@@ -1348,6 +1372,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	eblnzoq.cn
 0.0.0.0	jb.ecar168.cn
 0.0.0.0	eccki.cn
+0.0.0.0	ecoffice.cn
 0.0.0.0	ecudsc.cn
 0.0.0.0	acccountverificatonlog.edgeone.app
 0.0.0.0	c2vydmvydxbkyxri-kte1fxva3p.edgeone.app
@@ -1385,6 +1410,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	h-adashx.ut.ele.me
 0.0.0.0	newton-api.ele.me
 0.0.0.0	metrics.ellechina.com
+0.0.0.0	trk.elmorietschle.cn
 0.0.0.0	ename.com.cn
 0.0.0.0	ename.net
 0.0.0.0	count.enet.com.cn
@@ -1432,7 +1458,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	1.feihua.com
 0.0.0.0	wmeng.feihuadns.com
 0.0.0.0	feitian001.com
-0.0.0.0	api-fp-retry-bj.fengkongcloud.com
 0.0.0.0	api-fp-retry-sa.fengkongcloud.com
 0.0.0.0	cloudconf.fengkongcloud.com
 0.0.0.0	fp-it.fengkongcloud.com
@@ -1452,6 +1477,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	ffnvhig.cn
 0.0.0.0	21.fh21static.com
 0.0.0.0	fhitagd.cn
+0.0.0.0	fidelitytradings.com
 0.0.0.0	fileshider.com
 0.0.0.0	fin.tips
 0.0.0.0	ad.findic.com
@@ -1462,7 +1488,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	bd1.flfgw.cn
 0.0.0.0	flsfzr.cn
 0.0.0.0	pid.fly160.com
-0.0.0.0	flyhost.org
 0.0.0.0	api-flow.flyme.cn
 0.0.0.0	bro.flyme.cn
 0.0.0.0	t-e.flyme.cn
@@ -1498,6 +1523,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	stat.funshion.com
 0.0.0.0	vs.funshion.com
 0.0.0.0	stat.funshion.net
+0.0.0.0	trk.futureelectronics.cn
 0.0.0.0	fwlrv.cn
 0.0.0.0	fwmbjrl.cn
 0.0.0.0	down.fwqlt.com
@@ -1505,11 +1531,10 @@ ff02::3	ip6-allhosts
 0.0.0.0	dms.fx678.com
 0.0.0.0	a.fxltsbl.com
 0.0.0.0	fy14.cn
-0.0.0.0	earlyier.fyoqcs7.cn
+0.0.0.0	fywuywf.cn
 0.0.0.0	jasccservice.fzeo73z.cn
 0.0.0.0	gainifyads.com
 0.0.0.0	fc.gaizong.cn
-0.0.0.0	ng-vn-notice.gameitop.com
 0.0.0.0	ad.gameley.com
 0.0.0.0	click.gamersky.com
 0.0.0.0	ja.gamersky.com
@@ -1522,8 +1547,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	click.ganji.com
 0.0.0.0	ganjituiguang.ganji.com
 0.0.0.0	sta.ganji.com
-0.0.0.0	tralog.ganji.com
-0.0.0.0	aeon.gaodwe.cn
 0.0.0.0	static.gaomaer.cn
 0.0.0.0	gaoshouyou.com
 0.0.0.0	trk.gardnerdenver.com.cn
@@ -1537,7 +1560,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	getui.com
 0.0.0.0	biz.gexing.com
 0.0.0.0	gggfjeiijw.cn
-0.0.0.0	shqdown.ggzuhao.com
 0.0.0.0	ghrs.cn
 0.0.0.0	ghshbt.cn
 0.0.0.0	ghsnhjk.cn
@@ -1568,6 +1590,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	sdk-cache.video.ptqy.gitv.tv
 0.0.0.0	sdk.ptqy.gitv.tv
 0.0.0.0	static.ptqy.gitv.tv
+0.0.0.0	time.video.ptqy.gitv.tv
 0.0.0.0	50m.gkcyc.com
 0.0.0.0	gknybkl.cn
 0.0.0.0	media.globalsign.com
@@ -1583,13 +1606,14 @@ ff02::3	ip6-allhosts
 0.0.0.0	gsol.edm.globalsources.com
 0.0.0.0	gsols.edm.globalsources.com
 0.0.0.0	home.edm.globalsources.com
+0.0.0.0	lifestyle.edm.globalsources.com
+0.0.0.0	lifestyle.tradeshow.globalsources.com
 0.0.0.0	mobile-electronics.edm.globalsources.com
 0.0.0.0	mobile.tradeshow.globalsources.com
 0.0.0.0	premierbuyer.edm.globalsources.com
 0.0.0.0	smkt.edm.globalsources.com
 0.0.0.0	summit.edm.globalsources.com
 0.0.0.0	techgifts.tradeshow.globalsources.com
-0.0.0.0	tradeshow.edm.globalsources.com
 0.0.0.0	1.glook.cn
 0.0.0.0	sensorsdata.glowapp.vip
 0.0.0.0	l.glrcy.cn
@@ -1615,8 +1639,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	adsense.google.cn
 0.0.0.0	adservice.google.com
 0.0.0.0	pagead-googlehosted.l.google.com
-0.0.0.0	partnerad.l.google.com
-0.0.0.0	s0-2mdn-net.l.google.com
 0.0.0.0	ssl-google-analytics.l.google.com
 0.0.0.0	www-google-analytics.l.google.com
 0.0.0.0	www-googletagmanager.l.google.com
@@ -1626,6 +1648,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	googleanalytics.com
 0.0.0.0	googleoptimize-cn.com
 0.0.0.0	googleoptimize.com
+0.0.0.0	tpc.googlesyndication-cn.com
 0.0.0.0	googlesyndication.com
 0.0.0.0	googletagmanager-cn.com
 0.0.0.0	googletagmanager.com
@@ -1651,6 +1674,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	gsxbxvd.cn
 0.0.0.0	gtcqbnu.cn
 0.0.0.0	pgdt.gtimg.cn
+0.0.0.0	tianshu.gtimg.cn
 0.0.0.0	ra.gtimg.com
 0.0.0.0	splashqqlive.gtimg.com
 0.0.0.0	tui.gtimg.com
@@ -1667,6 +1691,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	mo.gushiji.cc
 0.0.0.0	ggw.gusuwang.com
 0.0.0.0	guzsjdl.cn
+0.0.0.0	beacons5.gvt3.com
 0.0.0.0	gxbnp.cn
 0.0.0.0	pvsa.gxfugy.cn
 0.0.0.0	gxgbvmg.cn
@@ -1701,12 +1726,9 @@ ff02::3	ip6-allhosts
 0.0.0.0	log.dc.cn.happyelements.com
 0.0.0.0	hapying.com
 0.0.0.0	hashnest.com
-0.0.0.0	aeon.hbabvav.cn
-0.0.0.0	aeon.hbacnan.cn
+0.0.0.0	hatadelivery.cn
 0.0.0.0	aeon.hbassoa.cn
-0.0.0.0	aeon.hbbbwbw.cn
 0.0.0.0	hbbccqb.cn
-0.0.0.0	aeon.hbbooxb.cn
 0.0.0.0	a.hbf23.cn
 0.0.0.0	img1.hblds.com
 0.0.0.0	hbqabbg.cn
@@ -1790,6 +1812,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	hfqdipw.cn
 0.0.0.0	hgkzl.cn
 0.0.0.0	hgpbhuj.cn
+0.0.0.0	hhoffice.com.cn
 0.0.0.0	hhttm.top
 0.0.0.0	hhyfitk.cn
 0.0.0.0	sdd.hi1718.com
@@ -1804,6 +1827,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	logbak.hicloud.com
 0.0.0.0	logservice.hicloud.com
 0.0.0.0	logservice-dra.platform.hicloud.com
+0.0.0.0	logservice-dre.platform.hicloud.com
 0.0.0.0	logservice1.hicloud.com
 0.0.0.0	ads-drcn.platform.hihonorcloud.com
 0.0.0.0	honorsearch-dra.hiboard.hihonorcloud.com
@@ -1953,6 +1977,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	va.huya.com
 0.0.0.0	ylog.huya.com
 0.0.0.0	hypers.com
+0.0.0.0	hw-t.hypers.com.cn
 0.0.0.0	t.hypers.com.cn
 0.0.0.0	hzbxm.com
 0.0.0.0	hzsanjiaomao.com
@@ -1992,7 +2017,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	ax.ifeng.com
 0.0.0.0	cdgfa.ifeng.com
 0.0.0.0	err.ifengcloud.ifeng.com
-0.0.0.0	exp.3g.ifeng.com
 0.0.0.0	qcvf.ifeng.com
 0.0.0.0	stadig.ifeng.com
 0.0.0.0	survey.news.ifeng.com
@@ -2020,6 +2044,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	imageter.com
 0.0.0.0	imasdk.googleapis.com
 0.0.0.0	img001.com
+0.0.0.0	tj.img4399.com
 0.0.0.0	imlb2c.com
 0.0.0.0	api.immomo.com
 0.0.0.0	app-log-oversea.immomo.com
@@ -2041,14 +2066,11 @@ ff02::3	ip6-allhosts
 0.0.0.0	inmobicdn.cn
 0.0.0.0	inmobicdn.net
 0.0.0.0	inping.com
-0.0.0.0	inpostpol.icu
 0.0.0.0	api-data-collection.insta360.cn
 0.0.0.0	cane.intel.cn
 0.0.0.0	dogo.intel.cn
-0.0.0.0	intely.cn
 0.0.0.0	smetrics.marketing.interact-lighting.com.cn
 0.0.0.0	link.intergreat.com
-0.0.0.0	inveno.com
 0.0.0.0	ioiksw.cn
 0.0.0.0	ip193.cn
 0.0.0.0	c81.ipanocloud.com
@@ -2078,6 +2100,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	static-s.iqiyi.com
 0.0.0.0	static.g.iqiyi.com
 0.0.0.0	subscription.iqiyi.com
+0.0.0.0	tpa-hcdn.iqiyi.com
 0.0.0.0	yuedu.iqiyi.com
 0.0.0.0	trk.irco.com.cn
 0.0.0.0	log.ireader.com
@@ -2148,7 +2171,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	jdnlynb.cn
 0.0.0.0	jdpm.net.cn
 0.0.0.0	jesgoo.com
-0.0.0.0	paintingress.jgerdk.cn
 0.0.0.0	jgstny.com
 0.0.0.0	vpass-jp.jguaq.cn
 0.0.0.0	8961.jianbihua.com
@@ -2160,6 +2182,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	tr.jianshu.com
 0.0.0.0	udiab1.jianshu.com
 0.0.0.0	jiaopei.com
+0.0.0.0	jicoffice.cn
 0.0.0.0	api.jietuhb.com
 0.0.0.0	jiguang.cn
 0.0.0.0	target.ads.jihuoniao.com
@@ -2171,6 +2194,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	jjjcyjj.cn
 0.0.0.0	jknrwe.cn
 0.0.0.0	jl368.cn
+0.0.0.0	jmine.cn
 0.0.0.0	save.jnrsmcu.com
 0.0.0.0	ub1.job592.com
 0.0.0.0	yqg.jobui.com
@@ -2183,6 +2207,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	jpush.io
 0.0.0.0	jpushoa.com
 0.0.0.0	jrltdiu.cn
+0.0.0.0	js-google.com.cn
 0.0.0.0	jsdajp.click
 0.0.0.0	jsebmcv.cn
 0.0.0.0	jsing.net
@@ -2200,6 +2225,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	juzilm.com
 0.0.0.0	jwjwtw.top
 0.0.0.0	jxdown.com
+0.0.0.0	jxganrui.cn
 0.0.0.0	jy135.com
 0.0.0.0	jygdb.com
 0.0.0.0	jzdwl4.cn
@@ -2217,6 +2243,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	ssp.kdnet.net
 0.0.0.0	super.kdnet.net
 0.0.0.0	tracking.kdnet.net
+0.0.0.0	kexing-office.cn
 0.0.0.0	elq.keysight.com.cn
 0.0.0.0	mail.kguapp.com
 0.0.0.0	abroad-ad.kingsoft-office-service.com
@@ -2236,6 +2263,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	knliylh.cn
 0.0.0.0	ofkqiy.knowfashionstyle.com
 0.0.0.0	knowsafe.com
+0.0.0.0	info.kollmorgen.cn
 0.0.0.0	kolsh.cn
 0.0.0.0	dpi.networkorder.komect.com
 0.0.0.0	smetrics.kone.cn
@@ -2258,12 +2286,14 @@ ff02::3	ip6-allhosts
 0.0.0.0	wlog.ksapisrv.com
 0.0.0.0	andmlb.kshwtj.com
 0.0.0.0	w1.kskwai.com
+0.0.0.0	beha.ksmobile.com
 0.0.0.0	pgapi.ksmobile.com
 0.0.0.0	ups.ksmobile.net
 0.0.0.0	ws.ksmobile.net
 0.0.0.0	ic.ksosoft.com
 0.0.0.0	api.kingdata.ksyun.com
 0.0.0.0	hdns.ksyun.com
+0.0.0.0	ktoffice.cn
 0.0.0.0	c.kuaiduizuoye.com
 0.0.0.0	kuaishang.cn
 0.0.0.0	kuaishang.com.cn
@@ -2317,6 +2347,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	serveraddr.service.kugou.com
 0.0.0.0	softstart.kugou.com
 0.0.0.0	splashimgbssdl.yun.kugou.com
+0.0.0.0	tj.kugou.com
 0.0.0.0	tracker.kugou.com
 0.0.0.0	trackercdnbj.kugou.com
 0.0.0.0	update.mobile.kugou.com
@@ -2341,6 +2372,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	kychq.cn
 0.0.0.0	kzchyhr.cn
 0.0.0.0	go.eml.l-com.cn
+0.0.0.0	trk.l-com.cn
 0.0.0.0	data.adobe.l-god.cn
 0.0.0.0	l-google-email.com.cn
 0.0.0.0	lady177.com
@@ -2382,11 +2414,13 @@ ff02::3	ip6-allhosts
 0.0.0.0	banana.le.com
 0.0.0.0	cherry.le.com
 0.0.0.0	stat.le.com
+0.0.0.0	leanoffice.cn
 0.0.0.0	ads-api-o.api.leiniao.com
 0.0.0.0	ctv-ads.api.leiniao.com
 0.0.0.0	ssai-ads.api.leiniao.com
 0.0.0.0	ssai2-ads.api.leiniao.com
 0.0.0.0	update.lejiao.tv
+0.0.0.0	lejuliang.com
 0.0.0.0	analyze.lemurbrowser.com
 0.0.0.0	app.update.lenovo.com
 0.0.0.0	click.lenovo.com
@@ -2401,6 +2435,10 @@ ff02::3	ip6-allhosts
 0.0.0.0	pushapi.lenovomm.com
 0.0.0.0	susapi.lenovomm.com
 0.0.0.0	uss-pid.lenovomm.com
+0.0.0.0	lenzmx.com
+0.0.0.0	leon-live.cn
+0.0.0.0	leshu.com
+0.0.0.0	letsoffice.cn
 0.0.0.0	api.hdtv.letv.com
 0.0.0.0	api.platform.letv.com
 0.0.0.0	apple.www.letv.com
@@ -2415,9 +2453,16 @@ ff02::3	ip6-allhosts
 0.0.0.0	static.app.m.letv.com
 0.0.0.0	i0.letvimg.com
 0.0.0.0	i3.letvimg.com
+0.0.0.0	lgygy.cn
+0.0.0.0	lhippac.cn
 0.0.0.0	dig.lianjia.com
+0.0.0.0	lianwangtech.com
 0.0.0.0	adimg.liba.com
+0.0.0.0	libaishuo.com
 0.0.0.0	track.libii.cn
+0.0.0.0	lichunxiao.cn
+0.0.0.0	liebaovip.com
+0.0.0.0	lihongli5.cn
 0.0.0.0	ads.linkedin.cn
 0.0.0.0	linkhaitao.com
 0.0.0.0	linuozhiyao.xyz
@@ -2435,18 +2480,18 @@ ff02::3	ip6-allhosts
 0.0.0.0	plausible.lobehub-inc.cn
 0.0.0.0	lockview.cn
 0.0.0.0	deeplink.locokids.cn
+0.0.0.0	log-google.com.cn
 0.0.0.0	logagent-rum-292398709.cn-north-1.elb.amazonaws.com.cn
 0.0.0.0	webanalytics.logitech.com.cn
 0.0.0.0	webtarget.logitech.com.cn
 0.0.0.0	webanalytics.logitechg.com.cn
 0.0.0.0	webtarget.logitechg.com.cn
 0.0.0.0	lomark.cn
+0.0.0.0	lottogierkpl.shop
 0.0.0.0	game.loveota.com
 0.0.0.0	sdk.loveota.net
-0.0.0.0	lowervalues.com
 0.0.0.0	lpccdm.cn
 0.0.0.0	lrswl.com
-0.0.0.0	ny.lshdw.cc
 0.0.0.0	a1.lshou.com
 0.0.0.0	ltijnh.cn
 0.0.0.0	luciochen.cn
@@ -2463,11 +2508,13 @@ ff02::3	ip6-allhosts
 0.0.0.0	lycjsix.cn
 0.0.0.0	lydownload.net
 0.0.0.0	lys8ziut.cn
+0.0.0.0	lyszsz.cn
 0.0.0.0	lyua.cn
 0.0.0.0	njokz.lyz6dlvl.cn
 0.0.0.0	m.m216j.cn
 0.0.0.0	xc.macd.cn
 0.0.0.0	madhouse.cn
+0.0.0.0	tongji.mafengwo.cn
 0.0.0.0	track.oasis.magictavern.com
 0.0.0.0	magicwindow.cn
 0.0.0.0	zc1.maillist-manage.com.cn
@@ -2490,6 +2537,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	mbaobao.com
 0.0.0.0	mbippd.cn
 0.0.0.0	mdqhyxe.cn
+0.0.0.0	lepodownload.mediatek.com
 0.0.0.0	mepodownload.mediatek.com
 0.0.0.0	mgepodownload.mediatek.com
 0.0.0.0	mediav.com
@@ -2526,6 +2574,8 @@ ff02::3	ip6-allhosts
 0.0.0.0	reader.meizu.com
 0.0.0.0	reader.res.meizu.com
 0.0.0.0	servicecut.meizu.com
+0.0.0.0	tongji.meizu.com
+0.0.0.0	tongji-res.meizu.com
 0.0.0.0	tongji-res1.meizu.com
 0.0.0.0	u.meizu.com
 0.0.0.0	umid.orion.meizu.com
@@ -2616,6 +2666,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	gamebox.sec.miui.com
 0.0.0.0	geofence.sys.miui.com
 0.0.0.0	gtglobal.intl.miui.com
+0.0.0.0	inf.miui.com
 0.0.0.0	jupiter.intl.sys.miui.com
 0.0.0.0	jupiter.rus.sys.miui.com
 0.0.0.0	jupiter.sys.miui.com
@@ -2633,11 +2684,11 @@ ff02::3	ip6-allhosts
 0.0.0.0	tracking.miui.com
 0.0.0.0	tracking.eu.miui.com
 0.0.0.0	tracking.intl.miui.com
-0.0.0.0	transfer.sec.miui.com
 0.0.0.0	update.avlyun.sec.miui.com
 0.0.0.0	vpass-jp.mjhdq.cn
 0.0.0.0	mjmobi.com
 0.0.0.0	trace.mjyx.com
+0.0.0.0	mkuty.cn
 0.0.0.0	emjs.mkzhan.com
 0.0.0.0	mlstx.cn
 0.0.0.0	da.mmarket.com
@@ -2704,6 +2755,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	projecta-common-1258344701.file.myqcloud.com
 0.0.0.0	sfsafsadfjbbj-dsafjnb-1321533417.cos.ap-beijing.myqcloud.com
 0.0.0.0	datarangers-event.myrightone.com
+0.0.0.0	nsabiu.myshoplaza.com
 0.0.0.0	analytics.myshoptago.com
 0.0.0.0	ggs.myzaker.com
 0.0.0.0	aries.mzres.com
@@ -2776,7 +2828,15 @@ ff02::3	ip6-allhosts
 0.0.0.0	gtm.oasisfeng.com
 0.0.0.0	analytics.oceanengine.com
 0.0.0.0	offerstrack.net
+0.0.0.0	office-gift.com.cn
+0.0.0.0	office-pcm.cn
+0.0.0.0	office2.cn
+0.0.0.0	office365login.com.cn
+0.0.0.0	office580.cn
+0.0.0.0	officed.com.cn
+0.0.0.0	officefa.com.cn
 0.0.0.0	officesoftcn.com
+0.0.0.0	officewps.cn
 0.0.0.0	oguci.cn
 0.0.0.0	apps5.oingo.com
 0.0.0.0	okhan.net
@@ -2853,6 +2913,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	a8.jp.peacebird.com
 0.0.0.0	eloqua.pearsonvue.com.cn
 0.0.0.0	peasrch.com
+0.0.0.0	pen-google.com.cn
 0.0.0.0	pengauto.cn
 0.0.0.0	adver.pengyou.com
 0.0.0.0	penxiangge.com
@@ -2910,6 +2971,8 @@ ff02::3	ip6-allhosts
 0.0.0.0	pqjprom.cn
 0.0.0.0	prlioxb.cn
 0.0.0.0	proewildfire.cn
+0.0.0.0	info.protiviti.com.cn
+0.0.0.0	pstarv.cn
 0.0.0.0	dm.pstatp.com
 0.0.0.0	sf1-ttcdn-tos.pstatp.com
 0.0.0.0	sf3-ttcdn-tos.pstatp.com
@@ -2924,6 +2987,8 @@ ff02::3	ip6-allhosts
 0.0.0.0	pxhuiben.com
 0.0.0.0	pygokay.cn
 0.0.0.0	vv1.pyhfxdm.cn
+0.0.0.0	pzkrgcp.cn
+0.0.0.0	www.q4ee.top
 0.0.0.0	qawxpzm.cn
 0.0.0.0	cp.qbaobei.com
 0.0.0.0	uplog.qbox.me
@@ -3101,7 +3166,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	show-msgch.qq.com
 0.0.0.0	sngapm.qq.com
 0.0.0.0	sngmta.qq.com
-0.0.0.0	snowflake.qq.com
 0.0.0.0	soup.v.qq.com
 0.0.0.0	ssp.qq.com
 0.0.0.0	stat.y.qq.com
@@ -3113,7 +3177,15 @@ ff02::3	ip6-allhosts
 0.0.0.0	tdid.m.qq.com
 0.0.0.0	tgw-masdk.3g.qq.com
 0.0.0.0	tgw-sasdk.3g.qq.com
+0.0.0.0	tj.b.qq.com
+0.0.0.0	tj.video.qq.com
 0.0.0.0	tmead.y.qq.com
+0.0.0.0	tmeadcomm.y.qq.com
+0.0.0.0	tmfmazu-wangka.m.qq.com
+0.0.0.0	tmfmazu.m.qq.com
+0.0.0.0	tmfsdk.m.qq.com
+0.0.0.0	tmfsdktcpv4.m.qq.com
+0.0.0.0	tools.3g.qq.com
 0.0.0.0	tp2p.kg.qq.com
 0.0.0.0	tpush.html5.qq.com
 0.0.0.0	trace.qq.com
@@ -3163,6 +3235,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	api-access.pangolin-sdk-toutiao.com.queniuyk.com
 0.0.0.0	log-api.pangolin-sdk-toutiao.com.queniuyk.com
 0.0.0.0	tnc3-alisc1.zijieapi.com.queniuyk.com
+0.0.0.0	qufu.com.cn
 0.0.0.0	chat.quickcep.com
 0.0.0.0	qujishu.com
 0.0.0.0	sbbd1.qulishi.com
@@ -3203,7 +3276,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	a8cv.jp.redodopower.com
 0.0.0.0	news.reedexpo.com.cn
 0.0.0.0	solutions.refinitiv.cn
-0.0.0.0	wyzq.rehuwang.com
 0.0.0.0	www2.info.renesas.cn
 0.0.0.0	ebp.renren.com
 0.0.0.0	jebe.renren.com
@@ -3218,6 +3290,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	tatracker-us.rivergame.net
 0.0.0.0	rkzby.cn
 0.0.0.0	rljjt.cn
+0.0.0.0	rmlvjtf.cn
 0.0.0.0	kmpl.rnqxp.cn
 0.0.0.0	tags.roberthalf.cn
 0.0.0.0	a.rohde-schwarz.com.cn
@@ -3236,7 +3309,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	rui61.cn
 0.0.0.0	rumt-sg.com
 0.0.0.0	rumt-zh.com
-0.0.0.0	abc.ruodian360.com
 0.0.0.0	rvbztg.cn
 0.0.0.0	rvyjbwr.cn
 0.0.0.0	rvzlobj.cn
@@ -3247,6 +3319,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	sagetrc.com
 0.0.0.0	smetrics.samsung.com.cn
 0.0.0.0	analytics-api.samsunghealthcn.com
+0.0.0.0	biz5.sandai.net
 0.0.0.0	etl-xlmc-ssl.sandai.net
 0.0.0.0	etl.xlmc.sandai.net
 0.0.0.0	hub5btmain.sandai.net
@@ -3268,7 +3341,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	sbldw.cn
 0.0.0.0	pay.sboot.cn
 0.0.0.0	scjpqut.cn
-0.0.0.0	sckexing.cn
 0.0.0.0	sckfcn.cn
 0.0.0.0	statscollector.sd-rtn.com
 0.0.0.0	sd6hon.cn
@@ -3278,6 +3350,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	reportsk.web.sdo.com
 0.0.0.0	guang.sdsgwy.com
 0.0.0.0	1640831964042.se-life.cn
+0.0.0.0	trace.seeyouyima.com
 0.0.0.0	sellfox.com
 0.0.0.0	senbiaojita.com
 0.0.0.0	sensorsdata.cn
@@ -3290,8 +3363,8 @@ ff02::3	ip6-allhosts
 0.0.0.0	js.shangxueba.com
 0.0.0.0	shanhutech.cn
 0.0.0.0	sc.shayugg.com
-0.0.0.0	link.shengcekeji.com
 0.0.0.0	shengminsy.com
+0.0.0.0	shenhuafei.cn
 0.0.0.0	shenshiads.com
 0.0.0.0	hm.e.shifen.com
 0.0.0.0	httpdns.n.shifen.com
@@ -3324,6 +3397,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	sdkapp.mobile.sina.cn
 0.0.0.0	sdkclick.mobile.sina.cn
 0.0.0.0	taiji.sina.cn
+0.0.0.0	trends.mobile.sina.cn
 0.0.0.0	u1.img.mobile.sina.cn
 0.0.0.0	wbapp.mobile.sina.cn
 0.0.0.0	wbclick.mobile.sina.cn
@@ -3335,6 +3409,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	cpoml.iask.sina.com.cn
 0.0.0.0	cre.mix.sina.com.cn
 0.0.0.0	d0.sina.com.cn
+0.0.0.0	d00.sina.com.cn
 0.0.0.0	d1.sina.com.cn
 0.0.0.0	d2.sina.com.cn
 0.0.0.0	d3.sina.com.cn
@@ -3346,7 +3421,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	d9.sina.com.cn
 0.0.0.0	dcads.sina.com.cn
 0.0.0.0	emarketing.sina.com.cn
-0.0.0.0	int.dpool.sina.com.cn
 0.0.0.0	log.mix.sina.com.cn
 0.0.0.0	matwbp.iask.sina.com.cn
 0.0.0.0	s.img.mix.sina.com.cn
@@ -3418,11 +3492,13 @@ ff02::3	ip6-allhosts
 0.0.0.0	tnc3-aliec2.snssdk.com
 0.0.0.0	tnc3-alisc1.snssdk.com
 0.0.0.0	tnc3-bjlgy.snssdk.com
+0.0.0.0	toutiao-frontier.snssdk.com
 0.0.0.0	tsearch.snssdk.com
 0.0.0.0	ug.snssdk.com
 0.0.0.0	vas-hl-x.snssdk.com
 0.0.0.0	vcl-brain.snssdk.com
 0.0.0.0	xlog.snssdk.com
+0.0.0.0	soarfi.cn
 0.0.0.0	soarpower.com
 0.0.0.0	sobot.com
 0.0.0.0	social-touch.com
@@ -3469,8 +3545,11 @@ ff02::3	ip6-allhosts
 0.0.0.0	bd1.sosg.net
 0.0.0.0	dr.soso.com
 0.0.0.0	jzclick.soso.com
+0.0.0.0	toolbar.soso.com
+0.0.0.0	tj.sosomp.com
 0.0.0.0	click1n.soufun.com
 0.0.0.0	countubn.light.soufun.com
+0.0.0.0	tongji.home.soufun.com
 0.0.0.0	roi.soulapp.cn
 0.0.0.0	sgg.southcn.com
 0.0.0.0	cod.southmoney.com
@@ -3492,6 +3571,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	studylabs.cn
 0.0.0.0	autotrack.studyquicks.com
 0.0.0.0	stats.studyquicks.com
+0.0.0.0	stuowq.cn
 0.0.0.0	uc9.suinidai.com.cn
 0.0.0.0	log-dmp.suishenyun.cn
 0.0.0.0	dcbpm.suning.cn
@@ -3499,8 +3579,8 @@ ff02::3	ip6-allhosts
 0.0.0.0	tad.suning.com
 0.0.0.0	sunriseoutdoor.cn
 0.0.0.0	superads.cn
+0.0.0.0	sushi-swap.biz
 0.0.0.0	bdunion1.suxiazai.com
-0.0.0.0	download.suxiazai.com
 0.0.0.0	svdpgmt.cn
 0.0.0.0	analytics.sve.cc
 0.0.0.0	api.sve.cc
@@ -3519,6 +3599,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	bd1.szhk.com
 0.0.0.0	am.szhome.com
 0.0.0.0	collector.szlcsc.com
+0.0.0.0	countpage.sznews.com
 0.0.0.0	gold.szonline.net
 0.0.0.0	t-mobieler.wiki
 0.0.0.0	t101.cn
@@ -3596,6 +3677,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	simaba.m.taobao.com
 0.0.0.0	sjarvis.taobao.com
 0.0.0.0	srd.simba.taobao.com
+0.0.0.0	tns.simba.taobao.com
 0.0.0.0	tunion-api.m.taobao.com
 0.0.0.0	tyh.taobao.com
 0.0.0.0	umengacs.m.taobao.com
@@ -3605,7 +3687,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	strip.taobaocdn.com
 0.0.0.0	taojike.com.cn
 0.0.0.0	gg.taoseyy.cn
-0.0.0.0	qw2v.taoxiehui.cn
 0.0.0.0	gid.tapapis.cn
 0.0.0.0	openlog.tapapis.cn
 0.0.0.0	tapdb.com
@@ -3626,6 +3707,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	1.tecbbs.com
 0.0.0.0	tongji.techweb.com.cn
 0.0.0.0	tecunonline.com
+0.0.0.0	telegram.ac.cn
 0.0.0.0	telegramcn.co
 0.0.0.0	teleqpnm.cn
 0.0.0.0	apd-pcdnvodstat.teg.tencent-cloud.net
@@ -3656,6 +3738,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	answers.teradata.com.cn
 0.0.0.0	tgfyq.cn
 0.0.0.0	th7.cn
+0.0.0.0	theesginvestor.com
 0.0.0.0	advert.api.thejoyrun.com
 0.0.0.0	adpai.thepaper.cn
 0.0.0.0	event.thermoscientific.cn
@@ -3664,7 +3747,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	thinkingdata.cn
 0.0.0.0	tatrack.thinkyeah.com
 0.0.0.0	trk.thomas-pump.cn
-0.0.0.0	trail.thomsonreuters.cn
 0.0.0.0	tracking.ti.com.cn
 0.0.0.0	tracking.mail.ti.com.cn
 0.0.0.0	trackinginternal.ti.com.cn
@@ -3682,8 +3764,8 @@ ff02::3	ip6-allhosts
 0.0.0.0	tjfytech.com
 0.0.0.0	tjnwfjy.cn
 0.0.0.0	tjqwb.cn
-0.0.0.0	cdn.tmooc.cn
 0.0.0.0	site-p2p-ads.tngdigital.com.my
+0.0.0.0	tnjvz.cn
 0.0.0.0	pxx.tnklrs.cn
 0.0.0.0	hbv.tobeacon.cn
 0.0.0.0	st.todesk.com
@@ -3695,8 +3777,11 @@ ff02::3	ip6-allhosts
 0.0.0.0	fp.tongdun.net
 0.0.0.0	sky.tongjiai.com
 0.0.0.0	ato.tooopen.com
+0.0.0.0	topsem.com
 0.0.0.0	static.topxgun.com
 0.0.0.0	api.touch-moblie.com
+0.0.0.0	touclick.com
+0.0.0.0	toushibao.com
 0.0.0.0	ad.toutiao.com
 0.0.0.0	d.toutiao.com
 0.0.0.0	dm.toutiao.com
@@ -3719,17 +3804,15 @@ ff02::3	ip6-allhosts
 0.0.0.0	tnc3-alisc1.toutiaoapi.com
 0.0.0.0	tnc3-bjlgy.toutiaoapi.com
 0.0.0.0	toutiaopage.com
+0.0.0.0	tovbus.cn
+0.0.0.0	tovppl.cn
 0.0.0.0	trackingio.com
-0.0.0.0	traditionallyobjectlessblinked.com
-0.0.0.0	tradplus.cn
-0.0.0.0	tradplus.com
-0.0.0.0	tradplusad.com
-0.0.0.0	trafficjam.cn
 0.0.0.0	ubt-sin.tripcdn.com
 0.0.0.0	ta.trs.cn
 0.0.0.0	trustutn.org
 0.0.0.0	ts166.net
 0.0.0.0	ttdbh.com
+0.0.0.0	www.ttyyuuoo.com
 0.0.0.0	ad.api.3g.tudou.com
 0.0.0.0	go.tuev.cn
 0.0.0.0	tuhzjrr.cn
@@ -3841,6 +3924,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	jdlog.uu.cc
 0.0.0.0	ms-report.uu.cc
 0.0.0.0	www3-vpass.uubkn.cn
+0.0.0.0	www.uuboos.com
 0.0.0.0	uulucky.com
 0.0.0.0	uusee.com
 0.0.0.0	gg.uuu9.com
@@ -3869,6 +3953,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	veryboys.com
 0.0.0.0	vgnyli.top
 0.0.0.0	serconsole.vicp.cc
+0.0.0.0	goldbye.vicp.net
 0.0.0.0	ns1.vicp.net
 0.0.0.0	ns2.vicp.net
 0.0.0.0	hw-p2p-pull.video-voip.com
@@ -3948,6 +4033,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	co-ort-stsdk.vivoglobal.com
 0.0.0.0	co-romsp-unifyconfig.vivoglobal.com
 0.0.0.0	co-st-sl.vivoglobal.com
+0.0.0.0	co-stsdk.vivoglobal.com
 0.0.0.0	co-timesync.vivoglobal.com
 0.0.0.0	co-vcode-api.vivoglobal.com
 0.0.0.0	co-vcode-od.vivoglobal.com
@@ -3955,6 +4041,10 @@ ff02::3	ip6-allhosts
 0.0.0.0	de-gdpr-err-up.vivoglobal.com
 0.0.0.0	err-up.vivoglobal.com
 0.0.0.0	err.up.vivoglobal.com
+0.0.0.0	eu-album-api.vivoglobal.com
+0.0.0.0	eu-cota.vivoglobal.com
+0.0.0.0	eu-domaincfg.vivoglobal.com
+0.0.0.0	eu-errup.vivoglobal.com
 0.0.0.0	eu-onrt-stsdk.vivoglobal.com
 0.0.0.0	eu-ort-stsdk.vivoglobal.com
 0.0.0.0	eu-p.vivoglobal.com
@@ -4074,6 +4164,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	vyye.cn
 0.0.0.0	vzvvifw.cn
 0.0.0.0	w8.com.cn
+0.0.0.0	tongdun-fingerprint.walmartmobile.cn
 0.0.0.0	mlog.wangsu.com
 0.0.0.0	analytics.wanmei.com
 0.0.0.0	analytics-gw.games.wanmei.com
@@ -4104,8 +4195,10 @@ ff02::3	ip6-allhosts
 0.0.0.0	zgzxm.weathercn.com
 0.0.0.0	zgzxs.weathercn.com
 0.0.0.0	web-google-gg.com.cn
+0.0.0.0	web-google.cn
 0.0.0.0	webb-google.com.cn
 0.0.0.0	webdissector.com
+0.0.0.0	webexpo.cn
 0.0.0.0	webgg-google.com.cn
 0.0.0.0	log.webnovel.com
 0.0.0.0	webterren.com
@@ -4134,7 +4227,9 @@ ff02::3	ip6-allhosts
 0.0.0.0	whalecpan.cn
 0.0.0.0	whalememory.cn
 0.0.0.0	whaleprotect.cn
+0.0.0.0	whsbpw.cn
 0.0.0.0	whyfate.cn
+0.0.0.0	whytd.com
 0.0.0.0	log.wifi.com
 0.0.0.0	a.wifi33.com
 0.0.0.0	d.win10com.com
@@ -4144,6 +4239,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	ad.winrar.com.cn
 0.0.0.0	wiyun.com
 0.0.0.0	wjxcdn.com
+0.0.0.0	h1.wk2.com
 0.0.0.0	wkanx.com
 0.0.0.0	lm1.wkpcw.cn
 0.0.0.0	p.wktfkj.com
@@ -4167,6 +4263,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	v1.wphonelife.com
 0.0.0.0	ad.docer.wps.cn
 0.0.0.0	dyn.wps.cn
+0.0.0.0	info.wps.cn
 0.0.0.0	ios-informationplatform.wps.cn
 0.0.0.0	minfo.wps.cn
 0.0.0.0	pcfg.wps.cn
@@ -4192,7 +4289,9 @@ ff02::3	ip6-allhosts
 0.0.0.0	1500022744.vodplayer.wxamedia.com
 0.0.0.0	1500026601.vodplayer.wxamedia.com
 0.0.0.0	wxdqgmr.cn
+0.0.0.0	wxebgpj.cn
 0.0.0.0	wy213.com
+0.0.0.0	wyoffice.com.cn
 0.0.0.0	wyvw.cn
 0.0.0.0	a.wzu.com
 0.0.0.0	x-steam.com
@@ -4206,6 +4305,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	pv.xcar.com.cn
 0.0.0.0	pvx.xcar.com.cn
 0.0.0.0	zio.xcar.com.cn
+0.0.0.0	analytics1.xdiarys.com
 0.0.0.0	xdrig.com
 0.0.0.0	xerhibx.cn
 0.0.0.0	bbb.xfrwu.cn
@@ -4219,7 +4319,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	ads-video-al.xhscdn.com
 0.0.0.0	ads-video-qc.xhscdn.com
 0.0.0.0	xhyktech.com
-0.0.0.0	aeon.xhzddct.cn
 0.0.0.0	cdn.xianchengyou.com
 0.0.0.0	khrtac.xiangha.com
 0.0.0.0	xiangshunjy.com
@@ -4306,6 +4405,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	ns2.xidian.edu.cn
 0.0.0.0	xiezhuo038.cn
 0.0.0.0	1.xilu.com
+0.0.0.0	tongj.xilu.com
 0.0.0.0	ad.ximalaya.com
 0.0.0.0	ad-incentive.ximalaya.com
 0.0.0.0	ad.c.ximalaya.com
@@ -4320,7 +4420,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	xdcs-collector.ximalaya.com
 0.0.0.0	xinbo-lora.cn
 0.0.0.0	ichc1.xinglinpukang.com
-0.0.0.0	a2.xinhuanet.com
+0.0.0.0	www.xingpingmaoyi.cn
 0.0.0.0	xinlimaoyi2.xinlimaoyi.cn
 0.0.0.0	upaicdn.xinmei365.com
 0.0.0.0	tongji.xinmin.cn
@@ -4345,6 +4445,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	xn--wxtr9fwyxk9c.xn--fiqs8s
 0.0.0.0	xn--wxtr9fwyxk9co4hbua.xn--fiqs8s
 0.0.0.0	xpcwrgy.cn
+0.0.0.0	www.xpdyqax.cn
 0.0.0.0	xqblnei.cn
 0.0.0.0	bchina-1.xsfaya.com
 0.0.0.0	rdbd.xsread.com
@@ -4361,6 +4462,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	advertpay-vip-ssl.xunlei.com
 0.0.0.0	advertpay.vip.xunlei.com
 0.0.0.0	analytics-union.xunlei.com
+0.0.0.0	api-u-ssl.xunlei.com
 0.0.0.0	kkpgv2.xunlei.com
 0.0.0.0	soa-vip-ssl.xunlei.com
 0.0.0.0	stat.download.xunlei.com
@@ -4379,6 +4481,8 @@ ff02::3	ip6-allhosts
 0.0.0.0	a.xywy.com
 0.0.0.0	bdmjs.xywy.com
 0.0.0.0	bmjs.xzw.com
+0.0.0.0	y-live.cn
+0.0.0.0	y7wr7.cn
 0.0.0.0	yahekby.cn
 0.0.0.0	yahoo.com.cn
 0.0.0.0	yangot.com
@@ -4453,6 +4557,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	uc-ap.yodo1api.com
 0.0.0.0	sdk.yolanda.hk
 0.0.0.0	yongtai.cn
+0.0.0.0	yorkenglish.cn
 0.0.0.0	a.youdao.com
 0.0.0.0	ad-sdk-config.youdao.com
 0.0.0.0	c.youdao.com
@@ -4507,6 +4612,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	youqunjx.com
 0.0.0.0	yousuode.cn
 0.0.0.0	youxiaoad.com
+0.0.0.0	tj.youzanyun.com
 0.0.0.0	wenxue.youzhicn.com
 0.0.0.0	yoyi.tv
 0.0.0.0	analysis.yozocloud.cn
@@ -4545,6 +4651,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	ks-p2p-v2.pull.yximgs.com
 0.0.0.0	ks-p2p.pull.yximgs.com
 0.0.0.0	ks.pull.yximgs.com
+0.0.0.0	tob-tracker.yximgs.com
 0.0.0.0	tx-ad.a.yximgs.com
 0.0.0.0	tx-kmpaudio.pull.yximgs.com
 0.0.0.0	tx-p2p-v2.pull.yximgs.com
@@ -4570,7 +4677,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	zantainet.com
 0.0.0.0	f1.zaojv.com
 0.0.0.0	zazhipu.com
-0.0.0.0	p3.zbjimg.com
 0.0.0.0	xue.zbyw.cn
 0.0.0.0	log.zcool.com.cn
 0.0.0.0	zegarkirepliki.pl
@@ -4579,8 +4685,10 @@ ff02::3	ip6-allhosts
 0.0.0.0	api-analytics-de.zepp.com
 0.0.0.0	api-analytics-us.zepp.com
 0.0.0.0	api-analytics-us3.zepp.com
+0.0.0.0	app-analytics.zepp.com
 0.0.0.0	zerolcp.cn
 0.0.0.0	zgisp.net
+0.0.0.0	zgmeifan.cn
 0.0.0.0	yin1.zgpingshu.com
 0.0.0.0	zh-apps-whatsapp.com
 0.0.0.0	push.zhangyue.com
@@ -4588,12 +4696,14 @@ ff02::3	ip6-allhosts
 0.0.0.0	saad.ms.zhangyue.net
 0.0.0.0	smad.ms.zhangyue.net
 0.0.0.0	zhanzhang.net
+0.0.0.0	www.zhaohainan.cn
 0.0.0.0	mg09.zhaopin.com
 0.0.0.0	slotabrosdev.zharev.com
 0.0.0.0	slotabrosuat.zharev.com
 0.0.0.0	cdnlog.zhenai.com
 0.0.0.0	1.zhev.com.cn
 0.0.0.0	zhflodsix.cn
+0.0.0.0	zhidian3g.cn
 0.0.0.0	pv.zhiding.cn
 0.0.0.0	zhigao5191.com
 0.0.0.0	adstatic.zhihu.com
@@ -4662,6 +4772,9 @@ ff02::3	ip6-allhosts
 0.0.0.0	saveu5-normal-lq.zijieapi.com
 0.0.0.0	starkgame.zijieapi.com
 0.0.0.0	timon.zijieapi.com
+0.0.0.0	tnc0-aliec2.zijieapi.com
+0.0.0.0	tnc0-alisc1.zijieapi.com
+0.0.0.0	tnc0-bjlgy.zijieapi.com
 0.0.0.0	tnc3-aliec2.zijieapi.com
 0.0.0.0	tnc3-alisc1.zijieapi.com
 0.0.0.0	tnc3-bjlgy.zijieapi.com
@@ -4669,9 +4782,9 @@ ff02::3	ip6-allhosts
 0.0.0.0	view.zijieapi.com
 0.0.0.0	logs-collect.ziniao.com
 0.0.0.0	s.zixuntop.com
+0.0.0.0	zjertu.cn
 0.0.0.0	dig.zjurl.cn
 0.0.0.0	dm.zjut.cc
-0.0.0.0	abcd.zle.com
 0.0.0.0	efg.zle.com
 0.0.0.0	gl.zle.com
 0.0.0.0	zmdesf.cn
