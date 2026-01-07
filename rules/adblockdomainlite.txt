@@ -3,9 +3,9 @@
 # Description: 适用于 InviZible Pro、personalDNSfilter 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts。Lite 版仅针对国内域名拦截。
 # Homepage: https://github.com/217heidai/adblockfilters
 # Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdomainlite.txt
-# Version: 20260107002841
-# Last modified: 2026/01/07 00:28:41
-# Blocked domains: 4840
+# Version: 20260107094128
+# Last modified: 2026/01/07 09:41:28
+# Blocked domains: 4805
 #
 kwflvcdn.000dn.com
 img.0279.net
@@ -101,7 +101,6 @@ s.17173cdn.com
 17890714.ru
 1kanz.cn
 1l1.cc
-signrunuous.1m1j79.cn
 1mpi.com
 d1.1ppt.com
 1qingdao.com
@@ -240,7 +239,6 @@ go.5211game.com
 52kuwang.cn
 5y9nfpes.52pk.com
 adm.52swine.com
-api.52youtu.com
 a.52zxw.com
 53kf.com
 54kefu.net
@@ -388,7 +386,6 @@ adpolestar.net
 adquan.com
 adreal.cn
 ads360.cn
-adsage.cn
 adsame.com
 adsmogo.com
 adtx2.cn
@@ -1611,7 +1608,6 @@ tradeshow.edm.globalsources.com
 sensorsdata.glowapp.vip
 l.glrcy.cn
 glwxw.net
-cpux.gmud.top
 ad.gmw.cn
 channel-analysis-js.gmw.cn
 gndmnrh.cn
@@ -1634,7 +1630,6 @@ adservice.google.com
 pagead-googlehosted.l.google.com
 ssl-google-analytics.l.google.com
 www-google-analytics.l.google.com
-www-googletagmanager.l.google.com
 clickserver.googleads.com
 googleadservices-cn.com
 googleadservices.com
@@ -1863,7 +1858,6 @@ resu8.hjfile.cn
 hjpqt.cn
 hkeig.com
 hkkeafj.cn
-hll-whatsapp.com.cn
 hlstlyy.com
 hly.com
 hlzyb.cn
@@ -1915,7 +1909,6 @@ hseda.com
 hsrgnac.cn
 g.hsw.cn
 hswfj.cn
-hsych.com
 httpdns.pro
 app-analytics-ru.huami.com
 huohuo.huamuwo.com
@@ -2084,7 +2077,6 @@ paopao.iqiyi.com
 paopao-monitor.iqiyi.com
 policy.video.iqiyi.com
 puma-api.iqiyi.com
-puma.api.iqiyi.com
 static-s.iqiyi.com
 static.g.iqiyi.com
 subscription.iqiyi.com
@@ -2465,7 +2457,6 @@ tx-p2p-pull.live-voip.com
 ws-p2p-pull.live-voip.com
 ljarfvg.cn
 llckmz.cn
-llg-whatsapp.com.cn
 lmeurbnjs.com
 lmqyz.com
 lnk0.com
@@ -2549,7 +2540,6 @@ report.meituan.com
 analytics.meituan.net
 data-sdk-uuid-log.d.meituan.net
 dreport.meituan.net
-cloudcollect.meitudata.com
 meitubeauty.meitudata.com
 my-material.zone1.meitudata.com
 stat.meitudata.com
@@ -2603,7 +2593,6 @@ miam4.cn
 miaozhen.com
 micro-xdb.com
 microad-cn.com
-stat.microvirt.com
 midway.run
 app.log.nf.migu.cn
 uem.migu.cn
@@ -2786,7 +2775,6 @@ nhjsw.cn
 nhscv.cn
 nimaxrv.cn
 ninebox.cn
-down.nishuoa.com
 nisihu.com.cn
 taobao.niucha.ren
 njzyjy.cn
@@ -2883,8 +2871,6 @@ vip.panggugu.com
 api-access.pangolin-sdk-toutiao2.com
 api-access.pangolin-sdk-toutiao3.com
 api-access.pangolin-sdk-toutiao4.com
-parking-pcner.cn
-parking-pcnet.cn
 partnerboost.com
 passionsex.vip
 bt1.patexplorer.com
@@ -3637,7 +3623,6 @@ amdcopen.m.taobao.com
 audid-api.taobao.com
 audid-api-sg.taobao.com
 baichuan-sdk.taobao.com
-c-adash.m.taobao.com
 eco.taobao.com
 err.taobao.com
 fav.simba.taobao.com
@@ -3648,7 +3633,6 @@ h-adashx4ae.ut.taobao.com
 h-adashx4sg.ut.taobao.com
 huodong.m.taobao.com
 hybrid.miniapp.taobao.com
-m-adash.m.taobao.com
 m.simba.taobao.com
 nbsdk-baichuan.taobao.com
 openjmacs.m.taobao.com
@@ -3706,7 +3690,6 @@ trace.zhiyan.tencent-cloud.net
 galileotelemetry.tencent.com
 log.tpns.gz2.tencent.com
 sensors.cloud.tencent.com
-stat.tpns.gz2.tencent.com
 tpns.tencent.com
 tpns.sgp.tencent.com
 tpstelemetry.tencent.com
@@ -3734,7 +3717,6 @@ sstats.thermoscientific.cn
 thinkingdata.cn
 tatrack.thinkyeah.com
 trail.thomsonreuters.cn
-ad.thsi.cn
 tracking.ti.com.cn
 tracking.mail.ti.com.cn
 trackinginternal.ti.com.cn
@@ -3746,7 +3728,6 @@ datas.tianqistatic.com
 yptqys.tianqistatic.com
 fz.tiansys.cn
 smetrics.tiffany.cn
-wkrd.tingyun.com
 img2.titan007.com
 a.tiyuxiu.com
 tjfytech.com
@@ -3758,7 +3739,6 @@ tnjvz.cn
 pxx.tnklrs.cn
 hbv.tobeacon.cn
 st.todesk.com
-adsapi.togothermany.cn
 adscfg.togothermany.cn
 adsup.togothermany.cn
 track.tom.com
@@ -3813,14 +3793,11 @@ lm1.tuliu.com
 tumeite.cn
 analy.tuniu.cn
 api.tusdk.com
-asdkd.tutuapp.com
-log.tutuapp.com
 smetrics.tuvsud.cn
 appwall.tv2phone.cn
 tvabqt.cn
 md.tvzhe.com
 twdjn.cn
-twttwtt.cn
 twuuzuu.cn
 hdnlligxc.twvvmvv.cn
 twwwgww.cn
@@ -3830,7 +3807,6 @@ livetech.shopee.vn.txlivecdn.com
 m.txtxr.com
 u.txuesoft.cn
 tydouke.com
-tyta8tp7.cn
 tzlit.cn
 tzyzlow.cn
 stat.u.sb
@@ -3840,7 +3816,6 @@ images.service.ubmsinoexpo.com
 unifi-report.ubnt.com
 ubxqerc.cn
 adashx.ut.uc.cn
-ads.uc.cn
 adtrack.uc.cn
 api.mp.uc.cn
 applog.uc.cn
@@ -3889,7 +3864,6 @@ bdjs.uimg.cn
 ujian.cc
 ultrapay.net
 umeng.com
-gf.umenglog.com
 analytics.umetrip.com
 umiwi.com
 unionsy.com
@@ -3903,8 +3877,6 @@ unypud.cn
 uodoo.com
 upceshop.cn
 uphzxdv.cn
-adscfg.uqualities.com
-adsoss.uqualities.com
 uqz.com
 urbanique.today
 uri6.com
@@ -4240,7 +4212,6 @@ whaleclean.cn
 whalecpan.cn
 whalememory.cn
 whaleprotect.cn
-web.whatstapp.sh.cn
 whsbpw.cn
 whyfate.cn
 whytd.com
@@ -4251,9 +4222,7 @@ winads.cn
 winbaicai.com
 hoverfly.winchdesign.cn
 ad.winrar.com.cn
-wis-whatsapp.com.cn
 wiyun.com
-www.wjm-whatsapp.com.cn
 wjxcdn.com
 wkanx.com
 lm1.wkpcw.cn
@@ -4313,7 +4282,6 @@ x-steam.com
 enappstat.xbext.com
 enstat.xbext.com
 xbfk.cn
-xbjltlc.cn
 xbtw.com
 d0.xcar.com.cn
 jcmonitor.xcar.com.cn
@@ -4369,6 +4337,7 @@ cdn-exp-sg-recommend.pt.xiaomi.com
 cdn.exp.xiaomi.com
 cdn.fds.api.xiaomi.com
 data.game.xiaomi.com
+data.mistat.xiaomi.com
 data.mistat.intl.xiaomi.com
 de.pandora.xiaomi.com
 dvb.pandora.xiaomi.com
@@ -4483,7 +4452,6 @@ soa-vip-ssl.xunlei.com
 stat.download.xunlei.com
 upgrade.xl9.xunlei.com
 prd-collect-llm.xverse.cn
-xwezch.cn
 xwmr.com.cn
 cc.xwscg.com
 xwuad.com
@@ -4639,7 +4607,6 @@ analysis.yozocloud.cn
 yrqwnc.cn
 yrwap.cn
 ad-material.ys7.com
-log.ys7.com
 ysjwj.com
 ysont.cn
 overseauspider.yuanshen.com
@@ -4828,9 +4795,7 @@ ztqdkzn.cn
 ztshg.cn
 zttebe.top
 ad.zui.com
-ad.zuimeitianqi.com
 dl.zuimeitianqi.com
-hw.zuimeitianqi.com
 log2.zuimeitianqi.com
 zukddms.cn
 zunue.cn
