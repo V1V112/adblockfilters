@@ -3,9 +3,9 @@
 # Description: 适用于 hosts 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts。Lite 版仅针对国内域名拦截。
 # Homepage: https://github.com/217heidai/adblockfilters
 # Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockhostslite.txt
-# Version: 20260112163201
-# Last modified: 2026/01/12 16:32:01
-# Blocked domains: 4685
+# Version: 20260113002651
+# Last modified: 2026/01/13 00:26:51
+# Blocked domains: 4676
 #
 127.0.0.1	localhost
 127.0.0.1	localhost.localdomain
@@ -285,6 +285,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	apiwmda.58.com.cn
 0.0.0.0	588589.com
 0.0.0.0	stat-58home.58che.com
+0.0.0.0	58tg.com
 0.0.0.0	595image.com
 0.0.0.0	59gt.cn
 0.0.0.0	abcd.5lu.com
@@ -530,7 +531,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	aixuntupian.oss-cn-hongkong.aliyuncs.com
 0.0.0.0	alime-pic.oss-cn-hangzhou.aliyuncs.com
 0.0.0.0	appgiftwall.oss-us-west-1.aliyuncs.com
-0.0.0.0	axyleu11gz-default-cn.rum.aliyuncs.com
 0.0.0.0	beacon-api.aliyuncs.com
 0.0.0.0	cdn-ads.oss-cn-shanghai.aliyuncs.com
 0.0.0.0	chaoku.oss-cn-chengdu.aliyuncs.com
@@ -1032,7 +1032,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	clicki.cn
 0.0.0.0	cloooud.com
 0.0.0.0	clothinger.com
-0.0.0.0	7xi9g1.com1.z0.glb.clouddn.com
 0.0.0.0	advertise.cloudlinks.cn
 0.0.0.0	log.cmbchina.com
 0.0.0.0	lcf.cmplay.cmcm.com
@@ -1095,7 +1094,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	logreport-global-dual.coolzcloud.com
 0.0.0.0	wslog-global-dual.coolzcloud.com
 0.0.0.0	bdu1.coozhi.cn
-0.0.0.0	cot-google.com.cn
 0.0.0.0	cpanclean.cn
 0.0.0.0	cbjg.cqnews.net
 0.0.0.0	crasheye.cn
@@ -1149,7 +1147,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	daraz.com
 0.0.0.0	net.daraz.lk
 0.0.0.0	net.daraz.pk
-0.0.0.0	sgtm.darryring.com
 0.0.0.0	dashet.com
 0.0.0.0	gate.datacaciques.com
 0.0.0.0	pv.datacaciques.com
@@ -1259,7 +1256,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	ap.dongqiudi.com
 0.0.0.0	sensors-log.dongqiudi.com
 0.0.0.0	stat.dongqiudi.com
-0.0.0.0	dot-google.com.cn
 0.0.0.0	monitor-web.dotfashion.cn
 0.0.0.0	doubleclick-cn.net
 0.0.0.0	doubleclick.net
@@ -1556,7 +1552,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	media.globalsign.com
 0.0.0.0	seal.globalsign.com
 0.0.0.0	africa.edm.globalsources.com
-0.0.0.0	analytics.globalsources.com
 0.0.0.0	electronics.edm.globalsources.com
 0.0.0.0	electronics.tradeshow.globalsources.com
 0.0.0.0	exhibition.edm.globalsources.com
@@ -1642,6 +1637,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	gsxbxvd.cn
 0.0.0.0	pgdt.gtimg.cn
 0.0.0.0	splashqqlive.gtimg.com
+0.0.0.0	tui.gtimg.com
 0.0.0.0	wa.gtimg.com
 0.0.0.0	bd1.guancha.cn
 0.0.0.0	bdjs.guangyuanol.cn
@@ -2149,7 +2145,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	jknrwe.cn
 0.0.0.0	jl368.cn
 0.0.0.0	save.jnrsmcu.com
-0.0.0.0	job-google.com.cn
 0.0.0.0	ub1.job592.com
 0.0.0.0	yqg.jobui.com
 0.0.0.0	jollyspring.com
@@ -2224,7 +2219,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	a.koudai.com
 0.0.0.0	b.kouke5.com
 0.0.0.0	kqgn.cn
-0.0.0.0	kqz-google.com.cn
 0.0.0.0	marketing.krones.com
 0.0.0.0	slb-p2p.vcloud.ks-live.com
 0.0.0.0	log-sdk.ksapisrv.com
@@ -3182,7 +3176,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	rabuagc.cn
 0.0.0.0	luaqxb.rainso.com
 0.0.0.0	ads-sdk-api.ranfenghd.com
-0.0.0.0	rat-google.com.cn
 0.0.0.0	bespoke-analytics.razerapi.com
 0.0.0.0	rbioclv.cn
 0.0.0.0	rbjpti.top
@@ -4154,7 +4147,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	analytics.woozooo.com
 0.0.0.0	statics.woozooo.com
 0.0.0.0	workingkeys.com
-0.0.0.0	wp-wpsoffice.com.cn
 0.0.0.0	v1.wphonelife.com
 0.0.0.0	ad.docer.wps.cn
 0.0.0.0	dyn.wps.cn
@@ -4552,7 +4544,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	httpdns.gslb.yy.com
 0.0.0.0	metrics.yy.com
 0.0.0.0	stat.game.yy.com
-0.0.0.0	yykmxz.cn
 0.0.0.0	yylady.cn
 0.0.0.0	adapi.yynetwk.com
 0.0.0.0	yystzl.cn
