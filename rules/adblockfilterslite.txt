@@ -3,9 +3,9 @@
 ! Description: 适用于 AdGuard 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockfilterslite.txt
-! Version: 20260116003514
-! Last modified: 2026/01/16 00:35:14
-! Blocked Filters: 41793
+! Version: 20260116094240
+! Last modified: 2026/01/16 09:42:40
+! Blocked Filters: 41794
 !
 ###AC_ad
 ###AD_160
@@ -28487,6 +28487,7 @@ chinaz.com,mydrivers.com,oschina.net##a[href*="click.aliyun.com"]
 chinaz.com,ofweek.com,yawin.cn##.adtext
 chitralexpress.com,sampledrive.org,rahim-soft.com,veganab.co,inter-news.it,azamericasat.net##.background-overlay + div[id][class*=" "]
 chjtx.com,fooish.com###ad
+chochox.com,comick.art,qmh.sex,cap3.sex,hindilinks4u.*,doujindesu.tv,easyvidplayer.com,camwhores.*,player4me.online,faselhds.biz,severeporn.com,rule34video.com,niyaniya.moe,pornxp.net#%#//scriptlet('abort-current-inline-script', 'WebAssembly', 'atob')
 chortle.co.uk,coloring.ws,dltk-holidays.com,dltk-kids.com,kidzone.ws,pcsteps.com,primeraescuela.com###adBanner
 chowhound.com,glam.com,mashed.com,moneydigest.com,outdoorguide.com,slashgear.com,svg.com,thelist.com,wrestlinginc.com##.before-ad
 christianforums.com,shareae.com##a[href*="/aff_c?offer_id="] > img
@@ -28709,7 +28710,6 @@ comicat.org,dapenti.com,douyu.com,iqiyi.com,jinti.com,kisssub.org,libvio.me,mvca
 comicbook.com,familyhandyman.com,tasteofhome.com,rd.com##.taboola-wrapper
 comicbook.com,vice.com##.wp-block-savage-platform-primis-video
 comick.art,comick.live##.ads-banner-container
-comick.art,qmh.sex,cap3.sex,hindilinks4u.*,doujindesu.tv,easyvidplayer.com,camwhores.*,player4me.online,faselhds.biz,severeporn.com,rule34video.com,niyaniya.moe,pornxp.net#%#//scriptlet('abort-current-inline-script', 'WebAssembly', 'atob')
 communitychickens.com,keepingbackyardbees.com##.jumbo-ad
 competentedigitale.ro,onehack.us#%#//scriptlet("abort-on-property-write", "adregain_wall")
 compleatgolfer.com,sacricketmag.com###slidein
@@ -32937,6 +32937,7 @@ massfans.cc,massrips.cc###banner2
 massfans.cc,massrips.cc###banner4
 masturbation22.com,playallvideos.com,pron.co,ratedxbiz.com,taporn.com##.ima
 mat6tube.com,noodlemagazine.com##iframe[src^="//its.fusrv.com/"]
+mat6tube.com,ukdevilz.com##.c_video noindex
 mathrubhumi.com,usanewstoday.club,crictracker.com###stickyunit
 matongwu.com.cn##div[style="height:90px;clear:both;"]
 mature.community,milf.community,milf.plus,pornhub.com##img[width="300"]
