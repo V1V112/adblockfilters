@@ -3,9 +3,9 @@
 # Description: 适用于 DNSMasq 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts。Lite 版仅针对国内域名拦截。
 # Homepage: https://github.com/217heidai/adblockfilters
 # Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnsmasqlite.txt
-# Version: 20260205004618
-# Last modified: 2026/02/05 00:46:18
-# Blocked domains: 4667
+# Version: 20260205100007
+# Last modified: 2026/02/05 10:00:07
+# Blocked domains: 4663
 #
 local=/img.0279.net/
 local=/027dir.com/
@@ -1231,7 +1231,6 @@ local=/dkm-google.com.cn/
 local=/dlads.cn/
 local=/dle-news.xyz/
 local=/dllfix.cn/
-local=/dme37.cn/
 local=/dmrtb.com/
 local=/xs.dmzj.com/
 local=/dnfmd.com/
@@ -1277,7 +1276,6 @@ local=/drivethelife.com/
 local=/dspunion.com/
 local=/analytics.dsyqt.com/
 local=/dtsxn.cn/
-local=/dtx36.cn/
 local=/dualspace.com/
 local=/a.duanmeiwen.com/
 local=/duapp.com/
@@ -1642,7 +1640,6 @@ local=/mo.gushiji.cc/
 local=/ggw.gusuwang.com/
 local=/guzsjdl.cn/
 local=/gxbnp.cn/
-local=/pvsa.gxfugy.cn/
 local=/gxg-google.com.cn/
 local=/gxgbvmg.cn/
 local=/gxhzv.cn/
@@ -4669,7 +4666,6 @@ local=/zxrcfw.com/
 local=/httpdns.zybang.com/
 local=/syh.zybang.com/
 local=/zygkzytb.cn/
-local=/zyk08.cn/
 local=/zykwnj.cn/
 local=/og.zyzjpx.cn/
 local=/log-auth.zztfly.com/
