@@ -3,9 +3,9 @@
 # Description: 适用于 hosts 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts。Lite 版仅针对国内域名拦截。
 # Homepage: https://github.com/217heidai/adblockfilters
 # Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockhostslite.txt
-# Version: 20260302164356
-# Last modified: 2026/03/02 16:43:56
-# Blocked domains: 4909
+# Version: 20260303004459
+# Last modified: 2026/03/03 00:44:59
+# Blocked domains: 4901
 #
 127.0.0.1	localhost
 127.0.0.1	localhost.localdomain
@@ -135,11 +135,7 @@ ff02::3	ip6-allhosts
 0.0.0.0	ssp.21ic.com
 0.0.0.0	tj.21ic.com
 0.0.0.0	2345.cn
-0.0.0.0	bd-js1.2345.com
-0.0.0.0	bd-retrieval1.2345.com
-0.0.0.0	bdcode.2345.com
-0.0.0.0	ggcode.2345.com
-0.0.0.0	jifen.2345.com
+0.0.0.0	2345.com
 0.0.0.0	2481e.com
 0.0.0.0	25662zubo23739.com
 0.0.0.0	2607.cn
@@ -1506,7 +1502,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	api-event.falconnet.app
 0.0.0.0	config.ad.falconnet.app
 0.0.0.0	fancyapi.com
-0.0.0.0	openadapi.fancydsp.com
 0.0.0.0	clickm.fang.com
 0.0.0.0	clickn.fang.com
 0.0.0.0	countpvn.light.fang.com
@@ -3637,7 +3632,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	stargame.com
 0.0.0.0	staticfile.net
 0.0.0.0	staticfile.org
-0.0.0.0	adx-strategy-api-cn.statisticslinks.com
 0.0.0.0	steam66.cn
 0.0.0.0	stg8.com
 0.0.0.0	stgowan.com
@@ -4386,7 +4380,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	wpwpquse.cn
 0.0.0.0	wrating.com
 0.0.0.0	wsacjdg.cn
-0.0.0.0	wsdiihk.cn
 0.0.0.0	wsds.cn
 0.0.0.0	wstatslive.com
 0.0.0.0	mlog.wangsu.com.wswebcdn.com
@@ -4483,7 +4476,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	register.xmpush.global.xiaomi.com
 0.0.0.0	resolver.mi.xiaomi.com
 0.0.0.0	sdkconfig.ad.eu.xiaomi.com
-0.0.0.0	sdkconfig.ad.rus.xiaomi.com
 0.0.0.0	stat.pandora.xiaomi.com
 0.0.0.0	stats.music.xiaomi.com
 0.0.0.0	storeconfig.mistat.intl.xiaomi.com
