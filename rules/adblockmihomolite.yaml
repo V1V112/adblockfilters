@@ -4,9 +4,9 @@ payload:
   # Description: 适用于 Clash Meta(Mihomo) 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts。Lite 版仅针对国内域名拦截。
   # Homepage: https://github.com/217heidai/adblockfilters
   # Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockmihomolite.yaml
-  # Version: 20260312005156
-  # Last modified: 2026/03/12 00:51:56
-  # Blocked domains: 5225
+  # Version: 20260312100142
+  # Last modified: 2026/03/12 10:01:42
+  # Blocked domains: 5216
   #
   - '+.kwflvcdn.000dn.com'
   - '+.0123456789a.com'
@@ -692,7 +692,6 @@ payload:
   - '+.b-google.hl.cn'
   - '+.b1.b2b168.com'
   - '+.b1.b2b168.net'
-  - '+.accoun.b5z3x1z.cn'
   - '+.b8b4ix7bj.com'
   - '+.apishow.babybus.com'
   - '+.apishowstats.babybus.com'
@@ -1125,7 +1124,6 @@ payload:
   - '+.7xi9g1.com1.z0.glb.clouddn.com'
   - '+.bkt.clouddn.com'
   - '+.advertise.cloudlinks.cn'
-  - '+.federalety.cmafwtt.cn'
   - '+.log.cmbchina.com'
   - '+.lcf.cmplay.cmcm.com'
   - '+.config.cmpassport.com'
@@ -1469,7 +1467,6 @@ payload:
   - '+.eccki.cn'
   - '+.ecudsc.cn'
   - '+.acccountverificatonlog.edgeone.app'
-  - '+.assauao-kdtasewp8q.edgeone.app'
   - '+.c2vydmvydxbkyxri-kte1fxva3p.edgeone.app'
   - '+.chrisbenoitkane.edgeone.app'
   - '+.dotnotblock-pfwzl61nwt.edgeone.app'
@@ -1613,7 +1610,6 @@ payload:
   - '+.adv-sv-stat.focus.cn'
   - '+.bdu.focus.cn'
   - '+.foisonad.com'
-  - '+.img.ford.com'
   - '+.metrics.ford.com'
   - '+.smetrics.ford.com'
   - '+.smetrics.sandbox.ford.com'
@@ -2270,7 +2266,6 @@ payload:
   - '+.ipinyou.com'
   - '+.ipinyou.com.cn'
   - '+.iplogger.cn'
-  - '+.login.ipmlk.cn'
   - '+.act.vip.iqiyi.com'
   - '+.apisgame.iqiyi.com'
   - '+.c.uaa.iqiyi.com'
@@ -2478,7 +2473,6 @@ payload:
   - '+.a.koudai.com'
   - '+.wap.koudaitong.com'
   - '+.b.kouke5.com'
-  - '+.kqkoxwi.cn'
   - '+.kr-google.hl.cn'
   - '+.marketing.krones.com'
   - '+.slb-p2p.vcloud.ks-live.com'
@@ -3069,7 +3063,6 @@ payload:
   - '+.offfice-wps.hl.cn'
   - '+.officesoftcn.com'
   - '+.offlce-wps.hl.cn'
-  - '+.speciallyian.ofrwo.cn'
   - '+.ohwypr.cn'
   - '+.apps5.oingo.com'
   - '+.oioi.world'
@@ -3123,7 +3116,6 @@ payload:
   - '+.pagechoice.net'
   - '+.paime.com'
   - '+.mm.paizi.net'
-  - '+.pg.pampers.com.cn'
   - '+.vip.panggugu.com'
   - '+.api-access.pangolin-sdk-toutiao2.com'
   - '+.api-access.pangolin-sdk-toutiao3.com'
@@ -4003,7 +3995,6 @@ payload:
   - '+.httpdns.danuoyi.tbcache.com'
   - '+.g.tbcdn.cn'
   - '+.a1.tbuz.com.cn'
-  - '+.accoun.tcafjan.cn'
   - '+.tcdvvv.top'
   - '+.tchkcc.cn'
   - '+.gwrtdp-tn690bfadt.tclclouds.com'
