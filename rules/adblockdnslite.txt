@@ -3,9 +3,9 @@
 ! Description: 适用于 AdGuard、AdGuardHome 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts。Lite 版仅针对国内域名拦截。
 ! Homepage: https://github.com/217heidai/adblockfilters
 ! Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnslite.txt
-! Version: 20260326010157
-! Last modified: 2026/03/26 01:01:57
-! Blocked domains: 5457
+! Version: 20260326101216
+! Last modified: 2026/03/26 10:12:16
+! Blocked domains: 5451
 ! unBlocked domains: 15
 !
 ||kwflvcdn.000dn.com^
@@ -1014,7 +1014,6 @@
 ||p9-ad-sign.byteimg.com^
 ||bzzxq.com^
 ||s.c-ctrip.com^
-||s.c1ns.cn^
 ||c4d4.cn^
 ||cadxd.com^
 ||download.caihong.com^
@@ -1267,8 +1266,6 @@
 ||moa-upload-online.coloros.com^
 ||smartcard.apps.coloros.com^
 ||gov.com-idre.top^
-||gov.com-rud.top^
-||gov.com-yvd.top^
 ||strack.concur.cn^
 ||marketing.container-xchange.cn^
 ||cu-cn-north00001.gala.convection.cn^
@@ -3205,7 +3202,6 @@
 ||ad.nvdvr.cn^
 ||anews7.nvwu.com^
 ||renacious.nwwadq.cn^
-||nyseibukan.com^
 ||nzddx.cn^
 ||logserver.nzxcloud.cn^
 ||oadz.com^
@@ -4674,7 +4670,6 @@
 ||log1.wanmei.com^
 ||log2.wanmei.com^
 ||matomo.wanqianyun.cn^
-||wansan17.cn^
 ||k1.wanwenwan.cn^
 ||d.wanyouxi7.com^
 ||a.wanzhuang.com^
@@ -5355,7 +5350,6 @@
 ||zhongsijiacheng.com^
 ||jy.zhongxues.com^
 ||zhuangxiu567.com^
-||dla.zhuayoukong.com^
 ||u.zhugeapi.net^
 ||zgsdk.zhugeio.com^
 ||umami.zhul.in^
