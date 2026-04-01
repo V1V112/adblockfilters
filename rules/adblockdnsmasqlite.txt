@@ -3,9 +3,9 @@
 # Description: 适用于 DNSMasq 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts。Lite 版仅针对国内域名拦截。
 # Homepage: https://github.com/217heidai/adblockfilters
 # Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdnsmasqlite.txt
-# Version: 20260401005658
-# Last modified: 2026/04/01 00:56:58
-# Blocked domains: 5593
+# Version: 20260401103057
+# Last modified: 2026/04/01 10:30:57
+# Blocked domains: 5584
 #
 local=/kwflvcdn.000dn.com/
 local=/img.0279.net/
@@ -1573,13 +1573,11 @@ local=/dotnotblock-pfwzl61nwt.edgeone.app/
 local=/hkz2311011313001-l5deuphxox.edgeone.app/
 local=/hq-cpanel-uptime-upgrade-hnrv61j7if.edgeone.app/
 local=/fixverify-kzlxv1e5mb.edgeone.dev/
-local=/gautamandgautam-byizfzvunb.edgeone.dev/
 local=/halblivcaslsa.edgeone.dev/
 local=/healthnuringsafehomeoffloras.edgeone.dev/
 local=/heydressuniversitydepartcolordesign.edgeone.dev/
 local=/hostecountspringweb-4sbw8uzi5y.edgeone.dev/
 local=/loud-bronze-vckfnrbimo.edgeone.dev/
-local=/reviewsource-inquiryweb-22qyctxg9d.edgeone.dev/
 local=/roundcube-jrcfj7x9ek.edgeone.dev/
 local=/srv65ertui8uyt655io-7douf96n3o.edgeone.dev/
 local=/tropical-red-pd56z5jhth.edgeone.dev/
@@ -1806,7 +1804,6 @@ local=/sdk-cache.video.ptqy.gitv.tv/
 local=/sdk.ptqy.gitv.tv/
 local=/static.ptqy.gitv.tv/
 local=/time.video.ptqy.gitv.tv/
-local=/web.whatsapp.gk.hl.cn/
 local=/50m.gkcyc.com/
 local=/gl0r6d2uyy.com/
 local=/media.globalsign.com/
@@ -1971,7 +1968,6 @@ local=/download.haozip.com/
 local=/log.dc.cn.happyelements.com/
 local=/hapying.com/
 local=/hashnest.com/
-local=/hbbccqb.cn/
 local=/a.hbf23.cn/
 local=/img1.hblds.com/
 local=/hbqabbg.cn/
@@ -4347,8 +4343,6 @@ local=/todesk-log-upload.todesk.com/
 local=/adsapi.togothermany.cn/
 local=/adscfg.togothermany.cn/
 local=/adsup.togothermany.cn/
-local=/down.tokenpocket-online.cn/
-local=/tp.tokenpocket-online.cn/
 local=/track.tom.com/
 local=/track.tomwx.net/
 local=/tongdun.net/
@@ -4542,7 +4536,6 @@ local=/vendeer.vdhnmu.cn/
 local=/vdq-binance.com.cn/
 local=/g.analytics.versa-ai.com/
 local=/vgm-wps.hl.cn/
-local=/accoun.vgnhich.cn/
 local=/vgnyli.top/
 local=/vhgu5ivtew.com/
 local=/serconsole.vicp.cc/
@@ -4861,7 +4854,6 @@ local=/whaleclean.cn/
 local=/whalecpan.cn/
 local=/whalememory.cn/
 local=/whaleprotect.cn/
-local=/www.whatsapapp.hl.cn/
 local=/web.whatsapsapp.hl.cn/
 local=/whoiscx.com/
 local=/whyfate.cn/
@@ -5395,7 +5387,6 @@ local=/cloud-log.yy.com/
 local=/httpdns.gslb.yy.com/
 local=/metrics.yy.com/
 local=/stat.game.yy.com/
-local=/yyidjk.cn/
 local=/yylady.cn/
 local=/adapi.yynetwk.com/
 local=/yystzl.cn/
