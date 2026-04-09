@@ -3,9 +3,9 @@
 # Description: 适用于 hosts 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts。Lite 版仅针对国内域名拦截。
 # Homepage: https://github.com/217heidai/adblockfilters
 # Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockhostslite.txt
-# Version: 20260409010202
-# Last modified: 2026/04/09 01:02:02
-# Blocked domains: 5499
+# Version: 20260409100922
+# Last modified: 2026/04/09 10:09:22
+# Blocked domains: 5494
 #
 127.0.0.1	localhost
 127.0.0.1	localhost.localdomain
@@ -1976,7 +1976,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	hbzhenquan.cn
 0.0.0.0	hcbmq.cn
 0.0.0.0	hdswgc.com
-0.0.0.0	hdytuko.cn
 0.0.0.0	hechaocheng.cn
 0.0.0.0	heheshield.com
 0.0.0.0	heima8.com
@@ -2876,7 +2875,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	medproad.com
 0.0.0.0	meihu56.cn
 0.0.0.0	eco-api.meiqia.com
-0.0.0.0	vaek1th.meiqiea.com
 0.0.0.0	ma1.meishij.net
 0.0.0.0	corp.meitu.com
 0.0.0.0	gg.meitu.com
@@ -3388,7 +3386,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	qfb5yhis.cn
 0.0.0.0	qfcdgy.cn
 0.0.0.0	qfd8lobo.cn
-0.0.0.0	qfd9tfhf.cn
 0.0.0.0	qfe3hfbo.cn
 0.0.0.0	qff1jkvl.cn
 0.0.0.0	qff3wkdu.cn
@@ -3761,7 +3758,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	safe-mile.com.cn
 0.0.0.0	safe-yaxing.com.cn
 0.0.0.0	404.safedog.cn
-0.0.0.0	go.safemini.club
 0.0.0.0	safepalqianbaoguanwangxiazai.com.cn
 0.0.0.0	safewx.hl.cn
 0.0.0.0	sagetrc.com
@@ -5272,7 +5268,6 @@ ff02::3	ip6-allhosts
 0.0.0.0	wenxue.youzhicn.com
 0.0.0.0	yoyi.tv
 0.0.0.0	analysis.yozocloud.cn
-0.0.0.0	yqnlgqw.cn
 0.0.0.0	yrqwnc.cn
 0.0.0.0	yrtzmbp.cn
 0.0.0.0	log.ys7.com
