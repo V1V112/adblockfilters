@@ -3,9 +3,9 @@
 # Description: 适用于 InviZible Pro、personalDNSfilter 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts。Lite 版仅针对国内域名拦截。
 # Homepage: https://github.com/217heidai/adblockfilters
 # Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockdomainlite.txt
-# Version: 20260426170026
-# Last modified: 2026/04/26 17:00:26
-# Blocked domains: 5397
+# Version: 20260427004152
+# Last modified: 2026/04/27 00:41:52
+# Blocked domains: 5379
 #
 kwflvcdn.000dn.com
 img.0279.net
@@ -74,7 +74,6 @@ countly.mail.163.com
 crash.163.com
 crashlytics.163.com
 du.163.com
-e-p4p.163.com
 fp-upload.dun.163.com
 g.163.com
 gb.corp.163.com
@@ -563,7 +562,6 @@ darren01.oss-cn-beijing.aliyuncs.com
 dmg-dd.oss-accelerate.aliyuncs.com
 dongtukj.oss-cn-hongkong.aliyuncs.com
 dreemdmbabys.oss-cn-guangzhou.aliyuncs.com
-eex8nehrx0-default-cn.rum.aliyuncs.com
 f7vkagmqwq-sdk.rum.aliyuncs.com
 f8ds5tkidk-sdk.rum.aliyuncs.com
 facai383.oss-cn-guangzhou.aliyuncs.com
@@ -659,11 +657,9 @@ app-safew-win.hl.cn
 app-safew-zh.hl.cn
 app-whatapp.hl.cn
 app-whatsapp-hl.com.cn
-app2kuailian.com.cn
 mobile.appchina.com
 appdriver.cn
 apphk-wps.com.cn
-appikuailian.com.cn
 apple-club.cn
 iadsdk.apple.com
 securemetrics.apple.com.cn
@@ -1082,7 +1078,6 @@ adimg.ce.cn
 ce71jubc2.com
 tvuser-ch.cedock.com
 cengqinglin.cn
-cf-kuailian.com.cn
 update.cg100iii.com
 cgf-kuailian.com.cn
 cgigc.com.cn
@@ -1162,7 +1157,6 @@ cleartone.club
 log-api.cli.im
 bd1.click.com.cn
 clicki.cn
-7xi9g1.com1.z0.glb.clouddn.com
 bkt.clouddn.com
 advertise.cloudlinks.cn
 log.cmbchina.com
@@ -1681,7 +1675,6 @@ frodzo.club
 fucnm.com
 fugetech.com
 fujincenter.com
-fukuailian.com.cn
 fumandi.hl.cn
 funkoonlinegb.club
 adm.funshion.com
@@ -1870,7 +1863,6 @@ z.grfyw.com
 gridsum.com
 gridsumdissector.com
 countly.growatt.com
-growingcat.com
 growingio.com
 event-log-api-data-platform-data-lake-prod.gryphline.com
 eventlog.gryphline.com
@@ -2161,7 +2153,6 @@ hy.huangye88.net
 17.huanqiu.com
 32.huanqiu.com
 boardx.huanqiu.com
-huanqiucaifu.com
 huanqiucaijing.cn
 ads.huantest.com
 huanyongqg.com
@@ -2471,7 +2462,6 @@ kajicam.com
 js.kalvinbg.cn
 download.kaobeitu.com
 smetrics.karcher.cn
-kb-quickq.hl.cn
 panda.kdnet.net
 ssp.kdnet.net
 super.kdnet.net
@@ -2682,6 +2672,7 @@ update.mobile.kugou.com
 webcollects.kugou.com
 kuheju.com
 msstatic.com.gslb.kuiniuca.com
+kuk8.com
 h1.kukuw.com
 img.adnyg.com.w.kunlungr.com
 qcloud-sg-datareceiver.kurogame.xyz
@@ -2882,7 +2873,6 @@ ad.mazc.org
 mbai.cn
 mbaobao.com
 mckumf5ii4.com
-md-kuailian.com.cn
 lepodownload.mediatek.com
 mepodownload.mediatek.com
 mgepodownload.mediatek.com
@@ -3178,7 +3168,6 @@ pdns.nudt.edu.cn
 synad2.nuffnang.com.cn
 c.nuhcpf.com
 log.nuomi.com
-metric.nuonuo.com
 promotionad.nvcam.net
 ad.nvdvr.cn
 anews7.nvwu.com
@@ -3206,7 +3195,6 @@ officesoftcn.com
 offie-wps.com.cn
 offiie-wps.com.cn
 apps5.oingo.com
-oioda.com
 ojg8sflgl.com
 okhan.net
 okx-app.cn
@@ -3322,7 +3310,6 @@ polyfill-js.cn
 poqwua.cn
 fp-it-acc.portal101.cn
 webtrack.pospal.cn
-pp-kuailian.hl.cn
 log.cs.pp.cn
 patriot.cs.pp.cn
 server.m.pp.cn
@@ -3718,7 +3705,6 @@ safew0.com.cn
 safew7.com.cn
 safew8.com.cn
 safewu.com.cn
-safewzz.com.cn
 sagetrc.com
 saitef.cn
 smetrics.samsung.com.cn
@@ -3740,7 +3726,6 @@ sanghuangvip.com
 ta.sanook.com
 dm.sanwen.net
 sanya1.com
-sapmon.com
 saxysec.com
 sbird.xyz
 sbldw.cn
@@ -3927,7 +3912,6 @@ sogou-aak.com.cn
 sogou-ai.com.cn
 sogou-browser.cn
 sogou-sogou.cn
-sogou-xiazai.com.cn
 123.sogou.com
 files2.sogou.com
 pb.sogou.com
@@ -4630,7 +4614,6 @@ vwe5pjt0jq.com
 vwiy.cn
 vx2tbw9xin.com
 vxhsj.cn
-vy-kuailian.com.cn
 vyye.cn
 vzvvifw.cn
 w3cfba6ufr.com
@@ -5144,7 +5127,6 @@ tj.youzanyun.com
 wenxue.youzhicn.com
 yoyi.tv
 analysis.yozocloud.cn
-yp-kuailian.com.cn
 yrqwnc.cn
 ys630.com
 log.ys7.com
