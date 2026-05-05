@@ -4,9 +4,9 @@ payload:
   # Description: 适用于 Clash Meta(Mihomo) 的去广告合并规则，每 8 个小时更新一次。规则源：AdGuard Base filter、AdGuard Chinese filter、AdGuard Mobile Ads filter、AdGuard DNS filter、AdRules DNS List、CJX's Annoyance List、EasyList、EasyList China、EasyPrivacy、xinggsf mv、jiekouAD、AWAvenue Ads Rule、DNS-Blocklists Light、Hblock、OISD Basic、StevenBlack hosts、Pollock hosts。Lite 版仅针对国内域名拦截。
   # Homepage: https://github.com/217heidai/adblockfilters
   # Source: https://raw.githubusercontent.com/217heidai/adblockfilters/main/rules/adblockmihomolite.yaml
-  # Version: 20260505180222
-  # Last modified: 2026/05/05 18:02:22
-  # Blocked domains: 5080
+  # Version: 20260506012314
+  # Last modified: 2026/05/06 01:23:14
+  # Blocked domains: 5067
   #
   - '+.kwflvcdn.000dn.com'
   - '+.img.0279.net'
@@ -292,7 +292,6 @@ payload:
   - '+.6v6.work'
   - '+.trail.71baomu.com'
   - '+.bdcdncnc.inter.71edge.com'
-  - '+.72072.xyz'
   - '+.73336zubo25326.com'
   - '+.1.78500.cn'
   - '+.79n4cubmu8.com'
@@ -1180,7 +1179,6 @@ payload:
   - '+.lcatscpzx.cz592401.cn'
   - '+.c1.czcol.cn'
   - '+.bd.czxuexi.com'
-  - '+.d1-binance.com.cn'
   - '+.ggjs.d17.cc'
   - '+.d48paxyhx.com'
   - '+.d7ytrv7yxa.com'
@@ -2111,7 +2109,6 @@ payload:
   - '+.id6.me'
   - '+.idcn-wps.com.cn'
   - '+.iddeea-ba-gov.shop'
-  - '+.iddeea-gov.shop'
   - '+.idubwz.cn'
   - '+.myeca.ieasyclick.net'
   - '+.myecat1.ieasyclick.net'
@@ -2302,7 +2299,6 @@ payload:
   - '+.jknrwe.cn'
   - '+.jlwz.cn'
   - '+.www.jmine.cn'
-  - '+.jnh-live.com.cn'
   - '+.save.jnrsmcu.com'
   - '+.ub1.job592.com'
   - '+.yqg.jobui.com'
@@ -2337,7 +2333,6 @@ payload:
   - '+.jygdb.com'
   - '+.jyklxx.hl.cn'
   - '+.jzdwl4.cn'
-  - '+.k1-binance.com.cn'
   - '+.k2n0f.cn'
   - '+.k69wes8q8.com'
   - '+.ds1.kaijia.com'
@@ -2607,7 +2602,6 @@ payload:
   - '+.linkhaitao.com'
   - '+.plausible.lipux.cn'
   - '+.litchiads.com'
-  - '+.live-jnsports.com.cn'
   - '+.hw-p2p-pull.live-voip.com'
   - '+.tx-p2p-pull.live-voip.com'
   - '+.ws-p2p-pull.live-voip.com'
@@ -2906,7 +2900,6 @@ payload:
   - '+.analytics.myshoptago.com'
   - '+.ggs.myzaker.com'
   - '+.aries.mzres.com'
-  - '+.n1-binance.com.cn'
   - '+.n69.com'
   - '+.naljjd.top'
   - '+.nalook.com'
@@ -3053,7 +3046,6 @@ payload:
   - '+.ozogame.com'
   - '+.p0y.cn'
   - '+.p0yixb3wfv.com'
-  - '+.p1-binance.com.cn'
   - '+.p2cdn.com'
   - '+.p74ugyuur.com'
   - '+.paa-shadowrocket.hl.cn'
@@ -4027,7 +4019,6 @@ payload:
   - '+.toutiaopage.com'
   - '+.tovbus.cn'
   - '+.tovppl.cn'
-  - '+.toyclaw.com.cn'
   - '+.tquickq.hl.cn'
   - '+.trackingio.com'
   - '+.tradplus.cn'
@@ -4042,8 +4033,6 @@ payload:
   - '+.tt-clashc.hl.cn'
   - '+.tt-clashd.hl.cn'
   - '+.tt-quickqy.hl.cn'
-  - '+.tt-shadowsocketa.hl.cn'
-  - '+.tt-shadowsocketw.hl.cn'
   - '+.tt-shanlian.hl.cn'
   - '+.ttdbh.com'
   - '+.www.ttyyuuoo.com'
@@ -4655,7 +4644,6 @@ payload:
   - '+.log.eu.xiaoyi.com'
   - '+.log.us.xiaoyi.com'
   - '+.xiaozhen.com'
-  - '+.xiazai-google-chrome.hl.cn'
   - '+.xibao100.com'
   - '+.xibvdjz2x2.com'
   - '+.ns2.xidian.edu.cn'
@@ -4813,7 +4801,6 @@ payload:
   - '+.sdk.yolanda.hk'
   - '+.sxgahmjk.yottnats.cn'
   - '+.youdao-fyi.hl.cn'
-  - '+.youdao-trans.com.cn'
   - '+.a.youdao.com'
   - '+.c.youdao.com'
   - '+.clkservice.youdao.com'
